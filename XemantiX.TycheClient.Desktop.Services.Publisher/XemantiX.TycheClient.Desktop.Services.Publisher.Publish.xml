@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\nicu\Projects\XemantiX\trunk\Source\Tyche\Output\Release" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/XemantiX.TycheClient.Desktop.Services.dll" publishTime="12/20/2011 23:44:38" />
+    <file relUrl="bin/XemantiX.TycheClient.Desktop.Services.pdb" publishTime="12/20/2011 23:44:38" />
+    <file relUrl="bin/XemantiX.TycheClient.Desktop.Services.Publisher.pdb" publishTime="12/20/2011 23:44:40" />
+    <file relUrl="Web.config" publishTime="12/20/2011 23:45:05" />
+    <file relUrl="bin/XemantiX.TycheClient.Desktop.Services.Publisher.dll" publishTime="12/20/2011 23:44:40" />
+    <file relUrl="index.aspx" publishTime="12/20/2011 03:48:08" />
+    <file relUrl="Service.svc" publishTime="12/18/2011 17:59:04" />
+  </publishProfile>
+</publishData>

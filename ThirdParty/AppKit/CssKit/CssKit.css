@@ -1,0 +1,76 @@
+﻿
+@import "Dialogs.css";
+@import "Buttons.css";
+@import "Header.css";
+@import "HeaderOperations.css";
+@import "oat_calendar.css";
+@import "oat_combobox.css";
+@import "ScreenContainer.css";
+@import "ViewContainer.css";
+@import "ZoneChoosing.css";
+
+
+html
+{
+	overflow: hidden;
+}
+
+body
+{
+	background-image: url(../ImgKit/background.gif);
+	background-repeat: repeat-x;
+	font-family: "Microsoft Sans Serif", "MS Sans Serif", "MS Reference Sans Serif", Sans-Serif;
+	font-size: 10px;
+}
+
+
+/* DEBUG ONLY
+table, td, tr, div
+{
+    border-style:dashed;
+    border-width : thin;
+}
+*/
+
+.simulateLink
+{
+	color: Blue;
+	cursor: hand;
+	
+	border-left-style: solid;
+	border-left-width: thick;
+}
+
+.simulateLink:hover
+{
+	color: Red;
+}
+
+.coolSeparatorLine
+{
+	background-color: Black;
+
+	width: 100%;
+	height: 1px;
+}
+
+.coolBackgroundBox
+{  
+    color: #9dadd2;
+    font-weight: bold;
+    font-size: large;
+    text-decoration: none;
+    text-align: left;
+}
+
+.coolBackgroundColor
+{  
+    background-color: #9dadd2;
+    text-align: left;
+    color: #555999;
+}
+
+.biggerFont
+{
+    font-size: 14px;
+}

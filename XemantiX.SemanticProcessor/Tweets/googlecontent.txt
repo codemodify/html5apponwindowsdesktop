@@ -1,0 +1,935 @@
+|jstan: RT @workinthecloud: #Cloud UK government shows interest in Google's cloud computing-based apps - One Stop Click:... http://bit.ly/htsV2Z
+|jstan: RT @workinthecloud: #Cloud Free Cloud Computing Apps: New semYOU App Store - The Competition to Google's ... - P... http://bit.ly/fgmf3s
+|jstan: RT @workinthecloud: #SaaS Optus brings Google Apps into SaaS suite - iT News: DelimiterOptus brings Google Apps ... http://bit.ly/hsbk6U
+|jstan: RT @workinthecloud: #SaaS Google, Sequoia, Salesforce back online marketing start-up HubSpot - IBTimes Hong Kong... http://bit.ly/fAuS3I
+|jstan: RT @workinthecloud: #Cloud Gmail Outage Highlights Google's Restoration Response - eWeek: Gmail Outage Highlight... http://bit.ly/hGBIBy
+|jstan: RT @workinthecloud: #Cloud Microsoft And Google Are At It Again - CloudTweaks News: Forbes (blog)Microsoft And G... http://bit.ly/gh6zHV
+|jstan: RT @workinthecloud: #Cloud Cloud Computing: Microsoft vs. Google - Greater Lansing Business Monthly: ZDNet UKClo... http://bit.ly/fsOvS6
+|jstan: RT @workinthecloud: #Cloud New Google Apps Tools Built to Bridge Collaboration Divide - PCWorld: India Business ... http://bit.ly/gCZhfC
+|jstan: RT @workinthecloud: #Cloud Microsoft Bites Back At Google's Office Cloud Play - CRN: India Business Blog (blog)M... http://bit.ly/ie3Awx
+|jstan: RT @workinthecloud: #Cloud Cloud Computing: Google Picks Up Anti-Office Pace - SYS-CON Media (press release): So... http://bit.ly/hCbmgu
+|jstan: RT @workinthecloud: #Cloud Google Shows Up Microsoft With Office Cloud Improvements - CRN: ITProPortalGoogle Sho... http://bit.ly/hhZBR6
+|jstan: RT @workinthecloud: #Cloud Cloud Computing: Google Chrome Web Store Expands to Nearly 3000 Apps - eWeek: Cloud C... http://bit.ly/eWowNS
+|jstan: RT @workinthecloud: #Cloud Google rumored to set up regional cloud computing data center in Taiwan - Digitimes: ... http://bit.ly/eYBrvg
+|jstan: RT @workinthecloud: #Cloud Cloud Computing: Google Undercuts Apple - SYS-CON Media (press release): Telegraph.co... http://bit.ly/g2DMjO
+|jstan: RT @workinthecloud: #Cloud 100% Web Is Future Of Cloud Computing Says Google Apps Chief - ITProPortal: Social Ba... http://bit.ly/geM9vB
+|jstan: RT @workinthecloud: #Cloud Cloud Computing: Google Asks PTO to Re-Examine Oracle Patents - SYS-CON Media (press ... http://bit.ly/h5Ox4U
+|jstan: RT @workinthecloud: #Cloud Google Apps boss says cloud computing is your destiny - Register: Social BarrelGoogle... http://bit.ly/g5PiFA
+|jstan: RT @workinthecloud: #Cloud A Service Similar to Google Adwords and Google AdSense - But for the Cloud - ReadWrit... http://bit.ly/hT345D
+|jstan: RT @workinthecloud: #Cloud Google Cloud Boosting YouTube Upload Speeds - Wall Street Journal (blog): Google Clou... http://bit.ly/gBtiLC
+|jstan: RT @workinthecloud: #Cloud Cloud consultancy PRM lures Google executive - iTWire (press release): Cloud consulta... http://bit.ly/fnJqPB
+|jstan: RT @workinthecloud: #Cloud Cloud Computing: Microsoft Strikes Out at Google's WebM - SYS-CON Media (press releas... http://bit.ly/foCREe
+|jstan: RT @workinthecloud: #Cloud Google Docs Refines File Search in the Cloud - eWeek: Google Docs Refines File Search... http://bit.ly/hyK0Uj
+|jstan: RT @workinthecloud: #Cloud Google`s Schmidt Handing CEO Reins to Page: 10 Gains and Losses - eWeek: CTV.caGoogle... http://bit.ly/h9QzHt
+|jstan: RT @workinthecloud: #Cloud Google Promises Minimal Downtime With Google Apps Cloud SLA Tweaks - CRN: ErictricGoo... http://bit.ly/i8Ylkf
+|jstan: RT @workinthecloud: #SaaS SMB Tech Roll-up: SharePoint Gets SaaS CRM, Google Offers Places on iPhone - CMSWire: ... http://bit.ly/gcJuF5
+|jstan: RT @workinthecloud: #Cloud Google Wins Injunction In Microsoft, Interior Department Cloud Computing ... - CRN: M... http://bit.ly/ib29Jw
+|jstan: RT @workinthecloud: #Cloud Google Wins Federal Ruling Against Microsoft in Cloud Computing Deployment - OStatic ... http://bit.ly/dW1P9b
+|jstan: RT @workinthecloud: #Cloud Why Google should buy Amazon.com - InfoWorld: Why Google should buy Amazon.comInfoWor... http://bit.ly/hGPjyX
+|jstan: RT @workinthecloud: #Cloud Google wins stay of Interior award to Microsoft for cloud - FederalNewsRadio.com: Mon... http://bit.ly/hPyOue
+|jstan: RT @workinthecloud: #Cloud Google Wins Injunction Against Agency Using Microsoft Cloud - PC World: Reuters India... http://bit.ly/efuu7M
+|jstan: RT @workinthecloud: #Cloud Microsoft Vs. Google: A Look At The Cloud Computing Customer Win War - CRN: The Guard... http://bit.ly/fHV3w8
+|jstan: RT @Scobleizer: RT @fadilfr: Google Maps Adds Drone Imagery: http://bit.ly/bARLjl http://ow.ly/19ss2p
+|jstan: RT @Scobleizer: RT @androids: #android: Google Music, The iTunes Killer? http://bit.ly/cMz6gr: Scobleizer: RT @and... http://bit.ly/a0tpxq
+|jstan: RT @timoreilly: RT @radar Watch this while wearing headphones: 3D sound in Google earth. http://bit.ly/94c7mi: tim... http://bit.ly/9Xldi1
+|jstan: RT @Scobleizer: RT @marshallk: Google Launches Blog Finder for Any Topic http://bit.ly/9zAEPe: Scobleizer: RT @mar... http://bit.ly/aX7z4X
+|jstan: RT @alleyinsider: THE GOOGLE INVESTOR: Welcome To The Pay-Per-View Party! $GOOG by @hleonard76 http://read.bi/bG9N... http://bit.ly/9JCwQR
+|jstan: RT @thomaspower: Google Scoops up Fifth Company This Month http://ff.im/-pX2zG: thomaspower: Google Scoops up Fift... http://bit.ly/dmUZzU
+|jstan: RT @mashable: Voice Faceoff: Skype vs. Google Voice - http://mash.to/2x7Yx: mashable: Voice Faceoff: Skype vs. Goo... http://bit.ly/bRFk5Y
+|jstan: RT @Scobleizer: RT @google: Got too much email? Priority Inbox in Gmail helps w/ info overload http://bit.ly/bcu3n... http://bit.ly/9O5z7C
+|jstan: RT @RWW: Google Launches Priority Inbox to Help You Fight Email Overload http://rww.tw/ceXx8p: RWW: Google Launche... http://bit.ly/apAfyF
+|jstan: RT @RWW: Impressed by Google's HTML show-off site, partnered with @arcadefire: http://rww.tw/chXCqT (our write-up:... http://bit.ly/bwH40r
+|jstan: RT @DaronBabin: Microsoft builds Bing Search App for Android - Google 24/7 ... http://bit.ly/b63MAG: DaronBabin: M... http://bit.ly/bdkep3
+|jstan: RT @timoreilly: RT @oreillymedia Google Apps for business. Join expert @MichaelMilton's FREE online class, http://... http://bit.ly/9ADRys
+|jstan: RT @RWW: 3 Ways Google Will Invade Your Enterprise http://rww.tw/doTnlB: RWW: 3 Ways Google Will Invade Your Enter... http://bit.ly/beNNW3
+|jstan: RT @RWW: Google Buys SocialDeck for Multi-Platform Support http://rww.tw/be2YbG: RWW: Google Buys SocialDeck for M... http://bit.ly/du5XPL
+|jstan: RT @thomaspower: Liked &quot;Google’s Social Buying Spree Continues With Mobile Gaming Developer SocialDeck&quot; http://ff.... http://bit.ly/9e0SYA
+|jstan: RT @alleyinsider: Google Acquires SocialDeck, Another Casual Gaming Company by @ncsaint http://read.bi/aRlVOg: all... http://bit.ly/dxsgVX
+|jstan: RT @DaronBabin: » Google Products #Fail - Monty C. M. Metzger Blog - English http://bit.ly/bCJXDf: DaronBabin: » G... http://bit.ly/cGiicG
+|jstan: RT @vincentabry: Etranges images sur Google Maps et Earth http://goo.gl/fb/DEL4D: vincentabry: Etranges images sur... http://bit.ly/cyetNb
+|jstan: RT @CedricTremintin: #Google rachète @angstro, agrégateur de données issues des réseaux sociaux http://bit.ly/ay6a... http://bit.ly/9ONjNj
+|jstan: RT @DaronBabin: Yahoo, Bing team up to take on Google http://bit.ly/a8aEd5: DaronBabin: Yahoo, Bing team up to tak... http://bit.ly/bk7v2h
+|jstan: RT @mashable: Google to Hollywood: Let’s Do Pay-Per-View Movies This Year - http://mash.to/2wuBu: mashable: Google... http://bit.ly/bfla7W
+|jstan: RT @jeanlucr: Useful: 50 time-saving Google Docs templates http://j.mp/bgWeZb: jeanlucr: Useful: 50 time-saving Go... http://bit.ly/bNmXZU
+|jstan: RT @ExploreWeb2dot0: Google Voice: 5 Truths Behind the Hype - PC World: Google Voice: 5 Truths Behind the HypePC W... http://bit.ly/bkMnD3
+|jstan: RT @Scobleizer: @centernetworks I don't use Google Reader anymore. Yes, I have them in Twitter, but I like seeing ... http://bit.ly/aUt8Il
+|jstan: RT @thomaspower: Liked &quot;Google News: Lady Gaga is Most Popular on Twitter - http://goo.gl/news/E0Wa&quot; http://ff.im/... http://bit.ly/ceTEKH
+|jstan: RT @mashable: Are you a Google Buzz user? Discuss the latest and social news by following us on Buzz: http://mash.... http://bit.ly/ccoWNo
+|jstan: RT @DaronBabin: A tech autopsy of Google's failed communication platform. - By ... http://bit.ly/8YRQ8x: DaronBabi... http://bit.ly/8ZgeWd
+|jstan: RT @jeanlucr: Google Realtime Search Challenges Bing, Twitter http://j.mp/9DWZR1: jeanlucr: Google Realtime Search... http://bit.ly/ddGxms
+|jstan: RT @SocialMedia411: Google continues social buying spree with Angstro (VentureBeat): http://bit.ly/dBjJoQ: SocialM... http://bit.ly/d4Y1g6
+|jstan: RT @Adrian_Saunders: Google likes pot more than Facebook | Technically Incorrect - CNET News http://bit.ly/9MTOKZ:... http://bit.ly/b1GmKk
+|jstan: RT @thomaspower: Goldman Sachs analyst: Google Voice is a threat to Facebook http://ff.im/-pQXHA: thomaspower: Gol... http://bit.ly/duo3pF
+|jstan: RT @conversionation: Google Acquires Social Startup Angstro: http://digg.com/news/technology/google_acquires_socia... http://bit.ly/bcQnSV
+|jstan: RT @DaronBabin: Google Wave alternatives and similar software - AlternativeTo.net http://bit.ly/aDTFgK: DaronBabin... http://bit.ly/cnLxqU
+|TweetSpeedNL: Google lanceert digitaal tijdschrift Think Quarterly: Think Quarterly wordt het driemaandelijks tijdschrift van ... http://bit.ly/haF7wN
+|TweetSpeedNL: Google lanceert driemaandelijks digitaal tijdschrift: Google start met een digitaal tijdschrift dat de titel Thi... http://bit.ly/hMCjDl
+|TweetSpeedNL: Yahoo lanceert Google Instant-functie: Search Direct: Bas van den Beld schreef er gisteren over op StateOfSearch... http://bit.ly/fgSyv9
+|TweetSpeedNL: Is Harry Houdini de mooiste Google Doodle ooit ?: Google viert vandaag de 137e verjaardag van Harry Houdini. Hou... http://bit.ly/fNyztN
+|TweetSpeedNL: Onion News Network; The love between the CIA and Facebook: Leuke video van Google TV over Facebook als tool voor... http://bit.ly/iiz1rV
+|TweetSpeedNL: Dalí-achtige beelden via Google Earth: De Amerikaanse programmeur en kunstenaar Clement Valla is op zoek gegaan ... http://bit.ly/gJRtXK
+|TweetSpeedNL: Feitjes over Google die u waarschijnlijk niet weet: 1.
+ Carl Page, de broer van de nieuwe Google-CEO en medeopri... http://bit.ly/idAX2H
+|TweetSpeedNL: China werkt Gmail weer tegen: Google heeft China beschuldigd van het blokkeren van Gmail, aldus de New York Time... http://bit.ly/ehvFds
+|TweetSpeedNL: Volgens IsoHunt is Google de grootste torrent zoekmachine: IsoHunt heeft de juridische strijd tegen Hollywood we... http://bit.ly/hpngbu
+|TweetSpeedNL: RT @FrankDePuijt: Die zag ik wel aankomen RT @mediapromotions: Google zal geen eigen sociaal netwerk lanceren: dus geen Google Circles,  ...
+|TweetSpeedNL: Website Google Streetview vernieuwd: Sinds de lancering van Google Streetview in Google Maps is het gegroeid van... http://bit.ly/f8SLJt
+|TweetSpeedNL: Google zal geen eigen sociaal netwerk lanceren: Er komt geen Google Circles, het sociale netwerk van Google waar... http://bit.ly/fgLynY
+|TweetSpeedNL: Mag Google zijn eigen zoekresultaten manipuleren?: De grote overeenkomst tussen de Coca-Cola-Company en Google i... http://bit.ly/ijS8aM
+|TweetSpeedNL: Groupon opent donatie pagina voor slachtoffers Japan: Niet alleen Google probeert haar steentje bij te dragen in... http://bit.ly/hsTt9z
+|TweetSpeedNL: Google Japan ondersteunt hulpverlening aardbeving en Tsunami: Direct na de aardbeving, waarvan het Google-team i... http://bit.ly/hgXS60
+|TweetSpeedNL: Google's Tsunami alert: Geheel ongerbuikelijk heeft Google op haar internationale zoekpagina een Tsunami waarsch... http://bit.ly/eU6l2M
+|TweetSpeedNL: Personeelsbestand YouTube gaat met 30% omhoog: Het lijkt erop dat Google CFO Patrick Pichette serieus was toen h... http://bit.ly/gLTwaZ
+|TweetSpeedNL: Google komt met mogelijkheid om zoekresulaten te verbergen: Google werkt doorlopend aan het verbeteren van haar ... http://bit.ly/eIrDSD
+|TweetSpeedNL: Google Maps Navigatie ontwijkt nu ook de file: Google Maps Navigatie,
+ de gratis navigatiesoftware van Google di... http://bit.ly/gVhud2
+|TweetSpeedNL: Twitter en Skype tonen aan hoe goed Google en Facebook het hebben: In een nieuwe poging om weer wat geld te verd... http://bit.ly/ek7XO3
+|TweetSpeedNL: Google lost Gmail probleem op: Afgelopen maandag schreven we over de problemen bij Google met betrekking tot de ... http://bit.ly/gPwape
+|TweetSpeedNL: Google Sloppy, de gapende zoekmachine: We zijn er eigenlijk altijd aan gewend, dat Google onze zoekopdrachten op... http://bit.ly/gVFUpS
+|TweetSpeedNL: Jezelf online profileren; waar ligt de grens?: Iemand opzoeken via Google, naar vakantiefoto’s kijken van een vr... http://bit.ly/fUtWQO
+|TweetSpeedNL: Google verwelkomt een grote honingraat: Afgelopen dinsdag stond er opeens een grote verrassing voor de deur van ... http://bit.ly/gYHwLP
+|TweetSpeedNL: Onderzoek comScore toont online traffic VS: Yahoo, Google en Microsoft staan bovenaan als het gaat om het aantal... http://bit.ly/hHEJsU
+|TweetSpeedNL: London Stock Exchage slachtoffer Malvertising: Vanaf zaterdag 26 februari merkte Google dat vanuit één pagina va... http://bit.ly/h6QkJg
+|TweetSpeedNL: Google Apps een bedreiging voor Microsoft?: Google Apps bestaat al bijna een jaar of 5 en Google claimt dat er 3... http://bit.ly/dZk5Qa
+|TweetSpeedNL: Google wijzigt Search Algoritme: pas op!: Na de grote algoritme wijziging van vorig jaar mei (Mayday!), die voor... http://bit.ly/fA0nBP
+|TweetSpeedNL: Google past zoekresultaten voor recepten aan: Google heeft aangekondigd een nieuwe feature te hebben gelanceerd ... http://bit.ly/ffhqNK
+|TweetSpeedNL: Apple's 30% afdracht in iTunes struikelblok voor uitgevers, Google One Pass nieuw alternatief: Dagbladuitgevers ... http://bit.ly/hZMsQz
+|TweetSpeedNL: Google Docs Viewer voegt 12 nieuwe file formaten toe: Het steeds populairder wordende Google Docs heeft 12 nieuw... http://bit.ly/hzLIFU
+|TweetSpeedNL: Google koopt grootste gebouw in Dublin: Google heeft al een hoofdkantoor in Dublin, maar John Herlihy, hoofd van... http://bit.ly/hlEeX3
+|TweetSpeedNL: YouTube introduceert skippable Pre-Roll Ads, de kijker beslist!: Google introduceert ook in Nederland skippable ... http://bit.ly/enJJxU
+|TweetSpeedNL: HeatMWC : Heatmap van Google tijdens het MWC Barcelona: Google heeft speciaal voor het Mobile World Congress (MW... http://bit.ly/eeyoIm
+|TweetSpeedNL: Startup Admeld niet akkoord met overname door Google: Google heeft als vaste regel dat het geen persberichten op... http://bit.ly/ihewmK
+|TweetSpeedNL: Google Weddings : voor iedereen die van plan is te gaan trouwen: Google gaat in de bruiloften business lijkt het... http://bit.ly/fyJIjB
+|TweetSpeedNL: Google Translate nu beschikbaar voor iPhone: Google Translate is nu ook beschikbaar voor de iPhone, iPad en iPod... http://bit.ly/dMI68e
+|TweetSpeedNL: Google Art Project : Op bezoek bij de belangrijkste musea ter wereld: Google heeft inmiddels met Google Street V... http://bit.ly/ekVF8X
+|TweetSpeedNL: In een week tijd 75.000 sollicitaties bij Google: Vorige week werd bekend dat Google op zoek is naar zo'n 6.000 ... http://bit.ly/emuqwb
+|TweetSpeedNL: Google lanceert Honeycomb en Android Market: Google heeft vannacht naast Honeycomb, het nieuwe Android 3.0 bestu... http://bit.ly/eqa2L4
+|TweetSpeedNL: Google Art Project geeft virtuele toegang tot top musea: Gisteren onthulde Google het prestigieuze Art Project, ... http://bit.ly/eVcfQe
+|TweetSpeedNL: Microsoft : We do not copy Google's results: Er is behoorlijk wat commotie ontstaan na een alles vernietigend ar... http://bit.ly/fhKOsf
+|TweetSpeedNL: Google en Twitter houden de lijnen open voor Egypte: De invloed van internet, en met name social media, op de hu... http://bit.ly/eA7uIG
+|TweetSpeedNL: Google zoekt 6000 nieuwe medewerkers waarvan 1000 in Europa: Google gaat dit jaar op zoek naar 6.000 nieuwe mede... http://bit.ly/hPDIEu
+|TweetSpeedNL: Google neemt SayNow over: De oprichters van SayNow laten via hun site weten blij te zijn aan te kunnen kondigen ... http://bit.ly/dOTt6f
+|TweetSpeedNL: Google : Keep my opt-outs, tot ziens Ad Tracking cookies: Google lanceert met Keep My Opt-Outs een nieuwe functi... http://bit.ly/i7jP8A
+|TweetSpeedNL: Maakt Google zich klaar voor een online reputatiedienst?: Clement Brygier
+schreef net een interessante post op d... http://bit.ly/fwooXJ
+|TweetSpeedNL: [VIDEO] Bloomberg: The Google Story: Google is een onderwerp dat vaak terugkomt op DutchCowboys. Ik betrap mij e... http://bit.ly/goUiIg
+|TweetSpeedNL: Larry Page wil einde maken aan 'verlammende bureaucratie' binnen Google: Larry Page, de nieuwe CEO van Google, w... http://bit.ly/dWiHBp
+|TweetSpeedNL: Onderzoek AdWords zoekwoordopties 2010: Google AdWords is voor veel adverteerders een uitermate effectieve adver... http://bit.ly/h3eWfN
+|TweetSpeedNL: Eric Schmidt stopt als CEO van Google: Eric Schmidt, de CEO van Google, stapt op. Hij zal Google niet verlaten, ... http://bit.ly/eQ6U3y
+|TweetSpeedNL: Breaking: Larry Page volgt Eric Schmidt op als CEO van Google: Zojuist heeft Google aangekondigd dat Eric Schmid... http://bit.ly/elXiN0
+|TweetSpeedNL: Wat is de impact van Google op videoformaten met de ondersteuning van WebM?: Google heeft aangekondigd de onders... http://bit.ly/eMNF7p
+|TweetSpeedNL: Grafbezoek via Google Earth: In mijn werk bij Man bijt hond komen er regelmatig filmpjes voorbij over ouderen en... http://bit.ly/eTCHa7
+|TweetSpeedNL: Google introduceert meer 45° beelden: Zowel satellietbeelden als Street View foto's worden ingezet om gebruikers... http://bit.ly/h7kuh1
+|TweetSpeedNL: Google Goggles lost ook sudokupuzzels op: Goed (of slecht) nieuws voor de liefhebbers van sudokupuzzels. Met de ... http://bit.ly/fwqHT4
+|TweetSpeedNL: Google Goggles maakt je vanaf nu ook Sudoku-kampioen: Wie af en toe een kijkje wil nemen in de toekomst van zoek... http://bit.ly/dSIMtF
+|TweetSpeedNL: 6 praktische Google Analytics rapporten en segmenten: Google Analytics. Een prachtig programma. Hoeveel bezoeker... http://bit.ly/gEia9X
+|TweetSpeedNL: Sneak Preview van Android 3.0 : Honeycomb: Onderstaande video is een sneak preview van Googles mobiele OS Androi... http://bit.ly/eluINf
+|TweetSpeedNL: Google Marissa Mayer over Groupon, Privacy en nr. 20: Drie maal Marissa Mayer, Googles first lady, in gesprek me... http://bit.ly/ekigzp
+|TweetSpeedNL: Komt Microsoft met een antwoord op Apple TV &amp; Google TV?: Van 6 tot 9 januari is de Consumer Electronics Show in... http://bit.ly/eRjSye
+|TweetSpeedNL: Google denkt aan digitale tijdschriftenkiosk: Google heeft een aantal uitgevers van 
+tijdschriften  benaderd voo... http://bit.ly/h1bCUY
+|TweetSpeedNL: Social shopping op sociale netwerken: In navolging van Google en YouTube komt ook Facebook met geïntegreerde sho... http://bit.ly/fsZzpx
+|TweetSpeedNL: BitTorrent Zeitgeist 2010: Ieder jaar komt Google samen met andere zoekmachines naar buiten met de lijstjes van ... http://bit.ly/fXa6Ar
+|TweetSpeedNL: Facebook iPhone App krijgt er 1,6 miljoen gebruikers bij: Gisteren werd bekend dat Facebook zoekmachine Google m... http://bit.ly/ihM00p
+|TweetSpeedNL: Google Crome actie voor Goede doelen levert 1 miljoen op: Google voerde met behulp van haar Chrome browser de we... http://bit.ly/f5LyLw
+|TweetSpeedNL: Google's Holiday Doodle: Google heeft voor deze vakantie periode weer een mooie Google Doodle gemaakt. Deze mooi... http://bit.ly/hrGY3X
+|TweetSpeedNL: Google koopt nieuw pand in New York : Kosten 1.4 miljard: Google heeft haar HQ in Mountain View Californië, bete... http://bit.ly/hMPWJl
+|TweetSpeedNL: Google helpt je helpen: Tijdje geleden al getwitterd maar toch nog even een snelle posting hier aangemaakt, omda... http://bit.ly/gdC658
+|TweetSpeedNL: Google lanceert Tech Support voor je ouders: Leuk initiatief van Google, Tech Support voor je ouders. Het geheim... http://bit.ly/dL7qFo
+|TweetSpeedNL: Multiple Identities : Facebook vs Google vs ... [Infographic]: Iedereen
+ die actief is met Social Media bezit me... http://bit.ly/hFbbwj
+|TweetSpeedNL: Review: Google TV, Apple TV, Boxee Box, Sony Netbox of anders: In de wereld van Apple TV, Google TV, Sony Netbox... http://bit.ly/f9JelI
+|TweetSpeedNL: Inkomsten Facebook vergeleken met die van Google: Facebook ligt op schema om dit jaar 2 miljard dollar aan sales... http://bit.ly/fSAe95
+|TweetSpeedNL: Google Shared Spaces gebruikt Wave technologie: Google Labs heeft Shared Spaces online gezet, met behulp van de ... http://bit.ly/enaynf
+|TweetSpeedNL: Google Body Browser: De beta-versie van Google Body Browser is nu beschikbaar wanneer je een webbrowser hebt die... http://bit.ly/eM8YGM
+|TweetSpeedNL: Google is nog meer je professor!: “Google is my professor” zingen de Black Eyed Peas in “Now Generation”. De z[...] http://bit.ly/eAT3xZ
+|TweetSpeedNL: SocialMediaRecap #16 2010 Eindejaar met lijstjes, Sociale  Google en Facebook ontwikkelingen: Mijn twitternieuws... http://bit.ly/fJUBWy
+|TweetSpeedNL: Laatste Multiscope Visiscan: Google op 1, Facebook debuteert op 10: Voor het elfde achtereenvolgende (en tevens ... http://bit.ly/dVT4AR
+|TweetSpeedNL: Google bedankt AdWords klanten met customized webfilm: Omdat AdWords van Google dit jaar 10 jaar bestaat, werd b... http://bit.ly/fICSWm
+|TweetSpeedNL: Linkbuilding met 140 karakters: Begin december erkende Google dat links op social media als microblog Twitter de... http://bit.ly/eHvaTR
+|TweetSpeedNL: Google Places campagne combineert offline met online: Google Places: voor de gebruikers een makkelijke tool om r... http://bit.ly/gWSEO5
+|TweetSpeedNL: Twitter's geavanceerde zoekfunctie: De laatste paar jaar wordt online search gedomineerd door Google en Yahoo. B... http://bit.ly/gpmeIq
+|TweetSpeedNL: Fashion show with Google: Al een tijdje volg ik Robbin Waldemar, twee creatievelingen die op dit moment werken b... http://bit.ly/fJg1o4
+|TweetSpeedNL: 2010 according to Google: Het is weer de maand van de jaaroverzichten. Welke belangrijke gebeurtenissen markeren... http://bit.ly/gr1y96
+|TweetSpeedNL: Google Chrome Web Store: Google kondigde deze week tijdens een persbijeenkomst in San Francisco een Chrome brows... http://bit.ly/eYsIJa
+|TweetSpeedNL: Google ZeitGeist 2010 [Video]: Eerder deze week maakte we al de Nederllandse Zeitgeist 2010 van Google bekend. I... http://bit.ly/iakKHn
+|TweetSpeedNL: Michael Arrington's fireside chat met Google's Marissa Mayer: De afgelopen 3 jaar was het altijd weer afwachten ... http://bit.ly/f5rHEO
+|TweetSpeedNL: Van der Vaart, Hyves en Partyflock scoren goed op Google: Vandaag maakt Google bekend welke zoektermen het meest... http://bit.ly/eGYnYS
+|TweetSpeedNL: Marrissa Mayer demonstreert nieuwe Google Maps Android app: Het is de derde keer dat Marissa Mayer naar Parijs k... http://bit.ly/dZqTP3
+|TweetSpeedNL: Google's Chrome update: Chrome OS, Chrome Web Store en Chrome browser: Google heeft zojuist tijdens een event in... http://bit.ly/fKQ5cM
+|TweetSpeedNL: Google komt met een nieuw Android toestel :The Google Nexus S: Google heeft gisterenavond de opvolger van de The... http://bit.ly/hq2CIy
+|TweetSpeedNL: Google toont je sociale links in de search resultaten: Op haar Official Google Blog meldt Google een beetje vers... http://bit.ly/gZWqMB
+|TweetSpeedNL: Groupon wijst Google's overnamebod van 5.3 miljard af: Je moet heel goed weten wat je zelf waard bent als je een... http://bit.ly/h3l97W
+|TweetSpeedNL: Google Cloud Picker nieuwe opslagdienst of tool ?: TechCrunch weet te melden dat een aantal internetters bij toe... http://bit.ly/fVphiA
+|TweetSpeedNL: Google blijft testen op de SERP's: Google heeft de afgelopen periode al veel veranderd in de presentatie van de ... http://bit.ly/eIy6Yg
+|TweetSpeedNL: EMP2010: Google over mediaplanning over verschillende kanalen: Joris Merks van Google gaf een presentatie met de... http://bit.ly/gNRjmy
+|TweetSpeedNL: Google's Book Store project gaat in VS dit jaar nog van start: De Wall Street Journal kondigde deze week aan dat... http://bit.ly/fbpcsn
+|TweetSpeedNL: De victorie van Iphion begon in Eindhoven: Ilse werd verslagen door Goliath Google, maar tien jaar later komen M... http://bit.ly/ehTSns
+|TweetSpeedNL: Google Transit, de nieuwe ov-routeplanner: Google heeft samen met het Amsterdamse GVB en de NS de handen ineen g... http://bit.ly/ewY3eQ
+|TweetSpeedNL: Waarom Google 6 miljard dollar wil betalen voor Groupon: Deze week werden de geruchten dat Google Groupon wil ov... http://bit.ly/eVB3Jq
+|TweetSpeedNL: Google lanceert Google Transit in Nederland: Google heeft zojuist Google Transit gelanceerd in Nederland. Tijden... http://bit.ly/hnhyAk
+|TweetSpeedNL: Megabod Google van 5.3 miljard voor Groupon: Google zou volgens verschillende media tussen de 5 en 6 miljard bet... http://bit.ly/f9Oi1W
+|TweetSpeedNL: Google in de picture bij de Europese Commissie: De Europese Commissie volgt de activiteiten van Google in Europa... http://bit.ly/hlb0mR
+|TweetSpeedNL: Google Earth 6 nu met 3D bomen en Street View Experience: Google introduceert Google Earth 6. In deze
+nieuwe ver... http://bit.ly/fVHNB0
+|TweetSpeedNL: Apple, Facebook en Google zijn een gevaar voor een vrij internet: Sociale netwerken als Facebook en Apple's iTun... http://bit.ly/fOQ3tE
+|TweetSpeedNL: Google lanceert Cloud Connect voor Microsoft Office: Inmiddels hebben volgens Google al miljoenen bedrijven de s... http://bit.ly/fuTCnv
+|TweetSpeedNL: Google publiceert digitaal boek over web ter ere van verjaardag WWW: Wie vorige week het puntje gebak heeft gemi... http://bit.ly/bjDUR6
+|TweetSpeedNL: Twitter vond overnamebod van 2,5 millard dollar 'beledigend': Google heeft eerder dit jaar een bod van 2,5 milja... http://bit.ly/a5z09E
+|TweetSpeedNL: Google zoekt 2.000 nieuwe werknemers: Google, ’s wereld
+grootste zoekmachine maakt haar ambities duidelijk. Het ... http://bit.ly/bEKhVO
+|TweetSpeedNL: Aantal beschikbare applicaties voor Google Apps-gebruikers vertienvoudigd: Vanaf vandaag kunnen Google Apps-klan... http://bit.ly/cCtNKx
+|TweetSpeedNL: Google bevoordeelt eigen sites: Google bevoordeelt zijn eigen diensten door ze een voordelige indexering toe 
+te... http://bit.ly/cyzOqt
+|TweetSpeedNL: Google Docs for mobile: Met Google Docs kun je, ongeacht locatie en tijd, documenten en spreadsheets editen. Van... http://bit.ly/dkIGse
+|TweetSpeedNL: Debat: directeur Google en schrijver Peter Olsthoorn over “De Macht van Google”: Peter Olsthoorn schreef 1000 ar... http://bit.ly/byVOqA
+|TweetSpeedNL: Hitwise ontkracht de Google-Facebook email clash: Gisterenavond kondigde 's werelds grootse sociale netwerk een ... http://bit.ly/cevpIC
+|TweetSpeedNL: Het leven is een reis – Duitse Google Street View commercial: Google Street View zorgde het afgelopen jaar voor ... http://bit.ly/drZc2X
+|TweetSpeedNL: Google Earth lanceert 360-graden view: Google Earth geeft de gebruiker al de mogelijkheid om de wereld vanuit ha... http://bit.ly/ayakeu
+|TweetSpeedNL: Google vs. Facebook: Slapfight! [Comic]: Facebook schuift stapje voor stapje in de richting van Google. Vrienden... http://bit.ly/9ljq3S
+|TweetSpeedNL: Google blijft (email)marketeers uitdagen: Google blijft marketeers continue uitdagen. Niet alleen op SEO en SEA ... http://bit.ly/a2okoK
+|TweetSpeedNL: De macht van Google: Naar aanleiding van het verschijnen van het boek ‘De macht van Google’ van Peter Olsthoo[...] http://bit.ly/9lCp3X
+|TweetSpeedNL: Google; WTF ben je aan het doen?: Deze vraag stel ik mij de afgelopen tijd steeds vaker, want Google is enorm ve... http://bit.ly/bWl97g
+|TweetSpeedNL: Google : Beyond Instant results : Instant Previews: Google heeft een aantal weken geleden Google Instant, hun ni... http://bit.ly/b0HKDj
+|TweetSpeedNL: Gmail Test Call Recording in GMail: Via Google Buzz melden gebruikers dat zij een Gmail feature voorbij zien kom... http://bit.ly/dmxNQD
+|TweetSpeedNL: Google AdSense lanceert nieuwe interface (beta): Vorige week zijn online de eerste berichten op blogs verschenen... http://bit.ly/9p8FUu
+|TweetSpeedNL: Google Instant voor Mobiel: Woensdag 8 september kondigde Marissa Mayer Google Instant aan. Met Google Instant z... http://bit.ly/cmV1V0
+|TweetSpeedNL: Google's nieuwe tool voor een 'faster web': Ergens binnen Google zit er een organisatie bekend als het &quot;Make the W... http://bit.ly/dtErcZ
+|TweetSpeedNL: Google Docs komt met &quot;Cloud Printing&quot;: Wie zo af en toe met zijn neus in de sourcecode duikt, komt nog wel eens in... http://bit.ly/9WVMhY
+|TweetSpeedNL: Google koopt ITA - A Travel Story: ITA Software is een bedrijf wat 
+niet iedereen direct zal herkennen. Toch is he... http://bit.ly/bcK1F3
+|TweetSpeedNL: De macht van Google [Video]: Eerder deze week verscheen er een boek van Peter Olsthoorn over de macht van Google. ... http://bit.ly/d5Lohy
+|TweetSpeedNL: Is Google een Monopoly? [Infographic]: (Groter formaat)... http://bit.ly/az8E5s
+|TweetSpeedNL: Google Places: optimaliseert local Search: ... http://bit.ly/bsGDeZ
+|TweetSpeedNL: &quot;De Macht van Google&quot;: food for thought: Werkt Google voor jou, of werk jij voor Google?  Vraagt Peter Olsthoorn
+o... http://bit.ly/aKOLaC
+|TweetSpeedNL: Nieuwe Google Search Appliance: Google kondigde gisteren de nieuwe Google Search Appliance aan. Cloud Connect maak... http://bit.ly/aYsdjn
+|TweetSpeedNL: Googlebot: Where are you?: Deze week komen uit veel Amerikaanse bronnen het bericht dat Google recente (blog)artik... http://bit.ly/b3E1Nn
+|TweetSpeedNL: Google developer creëert Facebook disconnect: Google medewerker Brian Kennish heeft een plugin ontwikkeld voor Goo... http://bit.ly/aKQWuB
+|TweetSpeedNL: Google wordt in Spanje aangeklaagd voor de WiFi-data-diefstal: Google Street View registreerde een tijdje ook de W... http://bit.ly/a67YLF
+|TweetSpeedNL: Eerste serie Sony internet TV's met Google TV: Sony heeft gisteren de eerste serie internet TV's aangekondigd op e... http://bit.ly/bfYvbl
+|TweetSpeedNL: Google-TV weer een stapje dichterbij met Logitec Revue: Google timmert nu voortdurend aan de weg met Google-TV en ... http://bit.ly/9aPgd3
+|TweetSpeedNL: Bedrijven doen liefst zaken met Microsoft, IBM, Google en HP: De lijst van 20 meest geliefde zakenpartners heeft d... http://bit.ly/b4XN94
+|TweetSpeedNL: Google loopt uit op Bing Powered Search: In de afgelopen maand september zijn 72,15% van alle zoekopdrachten in de... http://bit.ly/9LYAHM
+|TweetSpeedNL: Facebook groepen is wat Google Wave had kunnen zijn: Woensdag heeft Facebook haar nieuwste tool gepresenteerd bij ... http://bit.ly/aodvxK
+|TweetSpeedNL: Google ontwikkelt zelf-besturende auto's: Ja, u leest het goed: Google experimenteert al enkele maanden met auto's... http://bit.ly/bsD2Bf
+|TweetSpeedNL: Philips Stadion in Google Street View: Afgelopen weekend werd al bekend dat Google Streetview nu ook beschikbaar i... http://bit.ly/d1TFEB
+|TweetSpeedNL: Google Goggles nu beschikbaar voor de iPhone: Google Goggles is een een handige applicatie welke probeert onderdel... http://bit.ly/bXBluO
+|TweetSpeedNL: Google TV: TV meets Web: Web meets TV: Google heeft vandaag een nieuwe website gelanceerd ter promotie van Google ... http://bit.ly/aZdnww
+|TweetSpeedNL: Google shortener te gebruiken als Quick Response barcode creator: Google heeft zijn eigen dienst om lange url's te... http://bit.ly/bFB07Z
+|TweetSpeedNL: Hoe Google werkt [Google Infographic]: Klik hier voor de grote afbeelding... http://bit.ly/br4UZ1
+|TweetSpeedNL: Website voor Google's Url Shortener: Het is alweer bijna een jaar geleden toen Google bekend maakte een eigen URL ... http://bit.ly/9Ui6fs
+|TweetSpeedNL: Google Doodle 50 jaar Flintstones: Iedereen weet bij het horen van de kreet Yabba-Dabba-Doo gelijk waar het over g... http://bit.ly/cWBExK
+|TweetSpeedNL: Google presenteert de toekomst van display advertising: Tijdens het jaarlijkse IAB MIXX-congres deze week in New Y... http://bit.ly/dt8ZtX
+|TweetSpeedNL: Google Instant beschikbaar voor Nederland: Google Instant komt nu ook beschikbaar voor aangemelde Nederlandse Goog... http://bit.ly/9e5Tem
+|TweetSpeedNL: Google vs Facebook [Infographic]: ... http://bit.ly/9j514r
+|TweetSpeedNL: Overnames in 2010: Microsoft 0 - Google 23: Een recente blogpost van CB Insights onthult een schokkend (aldus Cnet... http://bit.ly/cbUGis
+|TweetSpeedNL: Elmo beantwoordt vragen op Youtube: Sesame Street gaat interactief en gebruikt Google Moderator om te weten welke ... http://bit.ly/dkhnLU
+|TweetSpeedNL: Google viert 12e verjaardag: Eerder deze maand (op 7 september) kwam er een bewegend Google Logo online, het was n... http://bit.ly/dsRkhn
+|TweetSpeedNL: Google introduceert two-step verification en docs editing op mobile apparaten: Op de jaarlijkse Google Admosphere ... http://bit.ly/9kcHrE
+|TweetSpeedNL: Nieuw : Google New: Google introduceert vandaag Google New, een plek waar je voortaan de nieuwste product features... http://bit.ly/bP23rY
+|TweetSpeedNL: Site komt met Google Instant Blacklist: Vorige week plaatste Danny Sullivan een artikel op Search Engine Land over... http://bit.ly/cwXzpf
+|TweetSpeedNL: Google gaat farmaceutische schurken-adverteerders aanpakken: ... http://bit.ly/a7ERdz
+|TweetSpeedNL: Morgen: Search Marketing Thursday met o.a. Google over AdWords merkenbeleid: Morgen, donderdag 23 september, vindt... http://bit.ly/cMcQYg
+|TweetSpeedNL: Google Adwords: zoektermen weergeven: Sinds enkele maanden biedt Google Adwords de in theorie erg handige functie ... http://bit.ly/bANi9s
+|TweetSpeedNL: Google komt met Two-step-verificatie voor Google Apps gebruikers: Google introduceert vandaag een veiligere manier... http://bit.ly/9UMfhf
+|TweetSpeedNL: Intel introduceert nieuwe Chip Atom processor voor ontwikkeling van Google TV Apps http://tinyurl.com/36l2cjf
+|TweetSpeedNL: Google Maps komt met betaalde Point-of-Interest Iconen http://tinyurl.com/2w77kpp
+|TweetSpeedNL: Google gaat vanaf vandaag ook grafische SVG files indexeren http://tinyurl.com/2u7mjlh
+|TweetSpeedNL: RT @hansschepers: 5 Reasons Why Google And Search Will Dominate The Next Decade http://tinyurl.com/285lb6b from @iNewsApp
+|Saubak_Internet: Google’s Robotic Recipe Search Favors SEO Over Good Food  #FB http://tiny.ly/CrUY
+|Saubak_Internet: The Google Loophole Has Become The Facebook/Twitter Loophole  #FB http://tiny.ly/XLMB
+|Saubak_Internet: Google ships last Cr-48 laptop 'for now,' partner Chrome OS devices still on track for summer  #FB
+|Saubak_Internet: Google pulls Recipe View out of the oven  #FB http://tiny.ly/C9vN
+|Saubak_Internet: Google details low-level Renderscript API for Honeycomb  #FB http://tiny.ly/K3gL
+|Saubak_Internet: You May Kiss The Bride, Thanks To Google Weddings  #FB http://tiny.ly/XZwz
+|Saubak_Internet: Google's Cr-48 netbook now surfing on AT&amp;T's GSM network (after a gentle hack)  #FB http://tiny.ly/39IO
+|Saubak_Internet: Google shows off Fragments API for Android 3.0  #FB http://tiny.ly/gbCE
+|Saubak_Internet: Google Music and web-based Android Market could be announced tomorrow  #FB http://tiny.ly/P3vK
+|Saubak_Internet: Google accuses Bing of 'cheating,' piggybacking off its search results  #FB http://tiny.ly/MOMV
+|Saubak_Internet: Google Spent $5.2 Million On Lobbying In 2010; Up 29 Percent From 2009  #FB http://tiny.ly/Clj1
+|Saubak_Internet: Nifty: Google’s Elemental API Periodic Table  #FB http://tiny.ly/6pdA
+|Saubak_Internet: TechCrunch Disrupt Winner Qwiki Hits No. 1 On Google Trends ‘Hot Searches’ In The U.S.  #FB http://tiny.ly/dxO1
+|Saubak_Internet: Microsoft Kinect Developer Johnny Chung Lee Jumps Ship And Lands At Google  #FB
+|Saubak_Internet: How Google Speeds Up The Chrome Release Cycle (Slideshow)  #FB http://tiny.ly/JD3a
+|Saubak_Internet: Google Goggles Can Now Read Print Ads. Oh And Play Freaking Sudoku!  #FB http://tiny.ly/BvVq
+|Saubak_Internet: Can Google Get Its Mojo Back?  #FB http://tiny.ly/YjMq
+|markevans101: RT @chudson: interesting post by xoogler @sklacy - What Larry Page really needs to do to return Google to its startup roots http://t.co/ ...
+|markevans101: RT @chudson: Baidu Does A Google And Looks To Make Its Own Mobile OS | paidContent http://t.co/tkxJfko
+|markevans101: I've made plans for Social-Loco: the future of location and the social web converged (Marissa Mayer, Google keynote) http://planca.st/TMN
+|markevans101: RT @ladyxtel: Watch Google’s Marissa Mayer interview…Lady Gaga? [Video] http://bit.ly/dIYzRF
+|markevans101: Groupon and Google on the same stage talking local deals! Social-Loco Conference; major tix discount: http://bit.ly/hwGke2 #geoloco #mobile
+|markevans101: I've made plans for Social-Loco: the future of location and the social web converged (Marissa Mayer, Google keynote) http://planca.st/Ssf
+|markevans101: I've made plans for Social-Loco: the future of location and the social web converged (Marissa Mayer, Google keynote) http://t.co/Nv1uQo5
+|markevans101: Social-Loco: the future of location and the social web converged (Marissa Mayer, Google keynote) http://planca.st/RB2 #geoloco #socialloco
+|markevans101: I've made plans for Social-Loco: the future of location and the social web converged (Marissa Mayer, Google keynote) http://planca.st/RB1
+|markevans101: I've made plans for Social-Loco: biz &amp; future of location and the social web converged (Marissa Mayer, Google keynote) http://planca.st/RA6
+|markevans101: Marissa Mayer (Google) confirmed to keynote upcoming Social-Loco conference. May 5th, SF. Details soon. #geoloco #socialloco #sociallocal
+|markevans101: RT @dcurtis: Larry Page is CEO of Google. 
+Meg Whitman is on HP's board. 
+Steve Jobs is absent. 
+
+Crazy week.
+|markevans101: Google buys Groupon for $2.5 billion? http://t.co/0TKcC3n via @vatortv
+|markevans101: RT @scobleizer Google is lost in location-based battle with Facebook, will it checkin? http://scoble.it/cBnTPB
+|markevans101: Google’s Marissa Mayer To Leave Search Team, Take Over Location And Local http://t.co/aGqwQM6 via @techcrunch
+|markevans101: Why You Want Google Voice on Your?iPhone http://t.co/QuEHiu3 via @gigaom
+|markevans101: #plan Google Ventures End-Of-Summer BBQ (Google Mountain View) Thu, Sep 16, 2010 http://planca.st/9bI
+|markevans101: What Big Brands Are Spending on Google http://t.co/awVg0Fl via @adage
+|markevans101: RT @phil_nash: Welcome to the new decade: Java is a restricted platform, Google is evil, Apple is a monopoly and Microsoft are the underdogs
+|markevans101: Fred Wilson, Twitter, Google, Gowalla, NBC Universal, USA Today all at the same place, same time to talk about the convergence of Geo-Loco,…
+|markevans101: http://twitpic.com/1bttik - Old Hills Bros. factory; home to Bite, Google and others now.
+|markevans101: Fwd: Google facts and figures (massive infographic) - http://feedproxy.google.com/~r/RoyalPingdom/~3/LzLmAZAa4gg/... http://ff.im/gvhbl
+|markevans101: Fwd: New Blog Post: Google Buzz Reduces Power Users' Bumpage http://goo.gl/fb/MdLm (via http://ff.im/gfpos) http://ff.im/gfsLR
+|markevans101: Fwd: New Blog Post: Blogger and Google Reader Speed Up, Suggestions Improve http://goo.gl/fb/GmNu (via... http://ff.im/gdUkN
+|markevans101: Fwd: louisgray: Inquisitr: The love and hate of Google Buzz and no, I’m not a luddite /by @stevenhodson... http://ff.im/gbiZP
+|markevans101: @stshank Had the 503 error page this morning, back up now. #googledown
+|markevans101: Not happy w/Google down --  as it's my central hub for mail and docs.
+|markevans101: RT wonder if someday all digital innovation will begin @ or be owned by google? huge volume &amp; pace of releases... http://ff.im/fN3tJ
+|markevans101: Pre-mature observation on Buzz, maybe:  Not sure I want such a service to be a feature in Google/Gmail... 
+
+I kinda.. http://vator.tv/v/144e
+|markevans101: RT @louisgray louisgray.com: How To Bring Your Google Buzz Entries to Twitter http://bit.ly/aPLaII
+|markevans101: Fwd: A Lost Generation of Entrepreneurs? - http://feedproxy.google.com/~r/pehub/blog/~3/fBpnbXOHFeA/ (via... http://ff.im/eWd5I
+|markevans101: Fwd: Picking the Right Social Media Services - http://feedproxy.google.com/~r/MarkEvans/~3/4OZikWFtzmw/ (via... http://ff.im/eUJ9O
+|markevans101: Fwd: Droid Users Expect Things the Google way: Unsupported and Free! -... http://ff.im/dohDI
+|markevans101: Fwd: A Central Place for All Your Google Files -... http://ff.im/9x3eo
+|markevans101: How To Enable The Super-Spartan, Totally Buttonless Google Home Page http://ff.im/9tb7F
+|markevans101: CHART OF THE DAY: Google's IPO Five Years Ago http://ff.im/7LDOO
+|markevans101: RT @TechCrunch Conducting Data-Rich Surveys Just Got Easier With Forms In Google Docs http://bit.ly/1a8iCn
+|markevans101: @louisgray Is there an easy way to delete items in Google Reader, i.e., don't need it, don't want it, delete,... http://ff.im/6XijI
+|markevans101: Fwd: New Blog Post: Conversations on Google Reader Shared Items Are Booming http://bit.ly/WpRe1 @googlereader (via... http://ff.im/6UFbI
+|markevans101: Google Developer Guru Jumps to BT/Ribbit Congrats to Kevin Marks! @ribbit http://ff.im/6iGnm
+|markevans101: RT @glfceo: Impressive:50% of his new business now comes from Yelp, 30% from Citysearch and 10% from Google searches  http://bit.ly/DSrfH
+|markevans101: Fwd: Google Reader Changed How I Consume Information (again) -... http://ff.im/5CzfT
+|markevans101: Ex Googler Kevin Marks joins BT Group btplc.com/news/index.cfm
+|markevans101: Google Insights for Search - Web Search Volume.... this is too much fun. Thanks for pointing this out @louisgray http://ff.im/52nLB
+|markevans101: Liked &quot;Farewell to Google&quot; http://ff.im/4iA6g
+|markevans101: RT @googleandroid eReader Android App Due In &quot;Mid To Late Summer&quot; http://bit.ly/Xw8oF (via @tweetmeme)
+|markevans101: Liked &quot;If My Data is Any Indication, Google's FeedFetcher Is Gobbling Up Market Share and RSS Subscribers Are...&quot; [pic] http://ff.im/3ynW6
+|markevans101: Liked &quot;Alan Davidson of Google (yesterday): &quot;We're at an 'Empire Strikes Back' moment for the Internet&quot; (Referring...&quot; http://ff.im/3wura
+|markevans101: Liked &quot;RT @talbroda: RT @ruv: Google Declares HTTP is Dead, Long Live The Realtime Cloud http://bit.ly/cek86 -...&quot; http://ff.im/3s0PA
+|markevans101: Google getting serious about e-books. Watch out Amazon. I understand you can search anywhere in a Google supported... http://ff.im/3s2Mm
+|markevans101: Liked &quot;Bing.com, new Microsoft search, ain't half bad. People, we NEED some serious competition for Google. You go,...&quot; http://ff.im/3s0fC
+|markevans101: Liked &quot;Glad I'm watching the Google Wave video. Much better than reading features on paper. I'm floored....&quot; http://ff.im/3nKhZ
+|markevans101: My full transition to Google Chrome is complete; using it more than any other browser now. http://ff.im/18hog
+|markevans101: Using Google's Chrome about 75% of the time; increase of 25% from a month ago. Only complaint, minimize button freezes from time-to-time.
+|markevans101: Making the change from FireFox to Google Chrome; using it 50% time for past week. I like it.
+|markevans101: Thoroughly enjoyed a good 45 min browse of incredible pictures in Google's Time Mag Search thing. http://images.google.com/hosted/life
+|markevans101: Checking out Google's Time Mag search; incredible pictures of SF Seals stadium (Giants),16th and Potrero Ave http://tinyurl.com/6g3nz9
+|markevans101: What do you all think of using the term post media rather than new media?
+Jeff Jarvis, &quot;..Yahoo old media, Google post media&quot;.
+|markevans101: Nope, Google didn't fix Chrome mouse tracking for laptop, need to use up down arrows... argh... several months and can't enjoy Chrome...
+|markevans101: Checking and hoping Google fixed Chrome to work with HP Notebook mouse tracking issue
+|markevans101: Google still hasn't fixed touchpad scroll problem in Chrome; really want to use it, but can't handle paging up and down with arrows.
+|markevans101: Gonna try a day away from Google search and spend it on Cuil.com... Will report back.
+|Wikibon: Google Apps for Your Business: The Good, the Bad and the Ugly http://cot.ag/dABji5
+|Wikibon: Cloud Apps are Moving Beyond Nice to Have http://cot.ag/dcyhiF (by @dvellante) #cloud #googleapps #security
+|Wikibon: RT @nexustech Google Me rumour gains credence: If rumours are to be believed Google looks set to launch social network http://cot.ag/aF4coE
+|Wikibon: Google Partners With VMware http://cot.ag/aJW3It (via InformationWeek)
+|Wikibon: GreenNet 2010: Google shares its green data center secrets http://cot.ag/9gpCfw (via InfoWorld) #greenit
+|Wikibon: Blog Post: 20 Key Research Notes from the #Wikibon Community http://cot.ag/de7iqF #vmware #emc #google #storage
+|Wikibon: Is Google the new Rome? http://cot.ag/dk3Zo2 #cloudcomputing
+|Wikibon: Google, YouTube received 10,000 government requests for user data http://cot.ag/dqJdOV (via NetworkWorld)
+|Wikibon: Microsoft Readies Counterpunch to Google Apps http://cot.ag/cKVDcb (via Internet Evolution by @dvellante)
+|Wikibon: Google covers all Apps with advanced data backup, recovery http://ow.ly/1igeE
+|Wikibon: Google App Engine is Down - Backup Data Center Having Problems http://ow.ly/1aSKu #google #datacenter
+|Wikibon: IBM Preps for Cloud Computing War vs. Google, Microsoft in 2010 http://ow.ly/1apnf #cloudcomputing
+|Wikibon: Google Awards $1 Million for University Research Effort to Slash Energy Consumption in Data Centers http://ow.ly/17Uty #greenIT #datacenter
+|Wikibon: First a Data Center, Now Free WiFi - Google, The Cloud and the Significance of a Small Oregon Town http://ow.ly/16MNs #cloudcomp #datacenter
+|Wikibon: RT @mmaine2008: How Google Apps Threatens Microsoft : http://digg.com/d31I9pD?t #digg (via @shiner76) #google #microsoft
+|Wikibon: How Google Apps Threatens Microsoft  http://bit.ly/4JiyEU
+|Wikibon: Google Knows Apps, Symplified Knows Identity  http://bit.ly/595tnQ
+|Wikibon: Google Apps plus Symplified Identity Management = an interesting solution for the virtual office. http://bit.ly/5RHiSX #wikibon
+|Wikibon: Twitter, Google and Asimov http://bit.ly/3Xi1du
+|Wikibon: Google Envisions 10 Million Servers http://ow.ly/vFV7 #datacenter
+|Wikibon: RT @kitshock: Google container data center tour:  http://bit.ly/128ZSQ
+|Wikibon: Private Clouds Represent the Future of Government Cloud Computing - Google Makes Early Step http://ow.ly/pOj6 #cloudcomputing
+|Wikibon: Google developing solar thermal power mirrors http://ow.ly/oOLJ #greenIT
+|Wikibon: Google's Gmail #Fail Casts Dark Cloud on Cloud Computing http://ow.ly/nJxO #cloudcomputing
+|Wikibon: Microsoft is having trouble moving to #cloudcomputing, While Google grows its cloud business through acquisitions http://ow.ly/nJE5
+|Wikibon: How Google Manages Data Across Data Centers [video] http://ow.ly/l6XM #datacenter
+|beckynagel: RT @sriramk: http://bit.ly/hZBjCK  &amp;lt;&amp;lt; Too many meetings at Google are a problem? I guess every large company looks similar :)
+|beckynagel: RT @regvulture: Steve Jobs vindicated: Google Android is not open: Android for fondlestabs closed shut. If you needed further proof … ht ...
+|beckynagel: RT @Amir_Efrati: WSJ.com - Under Pressure, RIM Adds Google Apps to New Tablet http://on.wsj.com/igtUA0
+|beckynagel: RT @rabble: Google Apps Sign Up can't decide if password requires 6 characters or 8! http://skit.ch/bju7
+|beckynagel: RT @nytimes: Judge Rejects Google’s Deal to Digitize Books http://nyti.ms/gY55rE
+|beckynagel: Google gives Georgia Tech $1 million to build a benchmark for the open internet http://t.co/MPqxtSb via @engadget
+|beckynagel: RT @slashdot: USPTO Gives Google Patent For Doodles http://bit.ly/dQRuJf
+|beckynagel: RT @datacenter: Tech Titans Back OpenFlow Networking Standard: Google, Facebook, Microsoft, Yahoo form foundation. http://bit.ly/fPotPx
+|beckynagel: RT @migueldeicaza: Google was kind enough to sponsor Mono again this year for the Google Summer of Code, students, join us:...
+|beckynagel: RT @slashdot: Who's Behind the Google-Linux License Ruckus? http://bit.ly/gugc93
+|beckynagel: RT @mjasay: Google calls HTML5 the &quot;world's biggest development environment,&quot; because it runs seamlessly across multiple platforms http: ...
+|beckynagel: RT @skreuzer: Wow. Google Calculator does rack units: http://t.co/L4FBURa #sysadmin
+|beckynagel: RT @GoogleAtWork: Dominion Enterprises goes Google, moves 4,000 employees to Google Apps http://goo.gl/ydyhP #gonegoogle
+|beckynagel: RT @techbrother: The #Google Loophole Has Become The Facebook/Twitter Loophole http://goo.gl/zlxhR #tc #facebook
+|beckynagel: RT @petele: want to go to GoogleIO? your chance to win a ticket with the Chrome web dev contest - starts at 9am PST - info at http://bit ...
+|beckynagel: RT @osbald: Ack! more Android issues caused by Google playing free &amp; loose with someone else's licensed source code: http://bit.ly/e0ZVW ...
+|beckynagel: RT @rawmeet: Google realizing not everyone likes to move at the speed of Google ... MSFT says welcome to our life  http://bit.ly/gZYLUZ  ...
+|beckynagel: RT @sjvn: RT @stshank: Royalty-free hardware version of Google's VP8 video encoding technology. First release is out http://bit.ly/g65bk ...
+|beckynagel: Truly horrifying: http://www.businessinsider.com/google-maps-shows-tsunami-devastation-2011-3#kashima-in-2003-1
+|beckynagel: RT @pcworld: Symantec Finds Fake Google Android Update http://bit.ly/fmhrb0
+|beckynagel: RT @ZDNet: Google search gets personal: Block sites you don't like http://zd.net/fOyRCB
+|beckynagel: #Android Takes Top Spot in #Smartphone Market http://t.co/F3d2hGd (#dev #mobiledev #google)
+|beckynagel: How Many Enterprises Are Deploying #Google Apps? http://t.co/lwSq993 (#cloud #googleapps #enterprise)
+|beckynagel: RT @sabzerose: #stupidnews Google's Mobile OS Takes Top Spot - Redmondmag.com http://goo.gl/fb/6AzX3
+|beckynagel: RT @gkeizer: Researcher blows chance at $15,000 Pwn2Own prize by reporting bug to Google. http://bit.ly/e2Wkl6
+|beckynagel: RT @sengineland: Google Bans Itself Again By Banning BeatThatQuote.com http://selnd.com/hmnJmB
+|beckynagel: RT @Web_Spiders: Google confirms it has removed several malicious #apps from its Android Market http://j.mp/fT0zLP #Android #smartphones
+|beckynagel: RT @googleapis: Introducing Google APIs Explorer: http://goo.gl/oNeYW. Try it out now: http://goo.gl/86dXK @googlecode
+|beckynagel: New on ADTmag.com: #Malware Targeting #Android Phones Growing http://bit.ly/hbdbNJ (#dev #infosec #google #androidos)
+|beckynagel: RT @rodtrent: Google Releases Compatibility Package to Address Fragmentation Issues http://6sen.se/f32Msw
+|beckynagel: RT @webmink: Google shutting down Gizmo5 - VoIP apocalypse on April 3rd: http://wmk.me/gTK8DC
+|beckynagel: RT @tonyramos: Big surprise: #Microsoft Pans Google's Collaboration Plug-In for Office http://bit.ly/f5wi7R #CloudConnect
+|beckynagel: RT @sos_jr: RT @tonyramos: Big surprise: #Microsoft Pans Google's Collaboration Plug-In for Office http://bit.ly/f5wi7R #CloudConnect
+|beckynagel: #Microsoft Pans #Google's Collaboration Plug-In for #Office http://t.co/dF0h6OX (#cloud)
+|beckynagel: #Google Offers #Microsoft #Office Plug-In for Document Collaboration http://t.co/4cEwQc0
+|beckynagel: New on RCPmag.com: #Google's Upstart #Cloud #Certification http://t.co/B1KmRvB
+|beckynagel: RT @RedmondPartner: Blog: Apple Now Much Bigger than Microsoft -- and Google's Gaining http://krz.ch/wxkE
+|beckynagel: #Google Turns to High Schools To Test #Chrome OS Laptops http://t.co/W8UXLeK (#tech #edtech #chromeos)
+|beckynagel: RT @nishaleoss: Google Turns to High Schools To Test Chrome OS Laptops: For the schools that have been selected, every teacher a... http ...
+|beckynagel: Most Popular on ADTmag.com: #Google Takes 'Contract' Extensions for #Java Open Source http://t.co/ALrLeLb
+|beckynagel: New on ADT from @johnkwaters:  #Google Takes 'Contract' Extensions for #Java Open Source http://t.co/ALrLeLb
+|beckynagel: RT @Mark_DuBois: Interesting read on how JC Penny used link farms to increase its Google ranking - http://bit.ly/dURauU
+|beckynagel: RT @Joab_Jackson: Google extensions could aid Java security (Network World): http://bit.ly/hfrxOA
+|beckynagel: Too funny: MPAA Threatens To Disconnect Google From Internet http://bit.ly/i0AkCH (#yeahright)
+|beckynagel: RT @aloiscochard: #Google on #cloud platform and #ChromeOS http://t.co/iEuRI3M
+|beckynagel: RT @HackerNewsYC: Google Official Rebuts Microsoft's Cloud Critiques http://goo.gl/fb/RPVl6
+|beckynagel: Q&amp;A: #Google Official Rebuts #Microsoft #Cloud Critiques http://t.co/kgzCLY7
+|beckynagel: Did you miss it? #Microsoft v.s. #Google on the Cloud, now on Redmondmag.com  http://t.co/sswyRlG
+|beckynagel: RT @theapradioshow: Any computer hackers out there want to try their hand at Google Chrome? http://bit.ly/e3hTOV could be worth $20,000  ...
+|beckynagel: RT @foxnet: Google Official Rebuts Microsoft's Cloud Critiques
+http://t.co/7JYnKzr
+|beckynagel: On a deadline and Google Analytics is throwing errors on every page...just my luck today!
+|beckynagel: #Cloud  Collide in Strategic #Microsoft vs. #Google Battle http://t.co/sswyRlG
+|beckynagel: New on ADTmag.com: Milestone Release of #GWT 2.2 Now Available http://bit.ly/eVF8sn (#google #dev #eclipse)
+|beckynagel: New on ADTmag.com: &quot;Devs: #Android Catching up to #iPad&quot; http://bit.ly/dQZ9JP (#dev #ios #apple #google)
+|beckynagel: RT @brada: Google Plugin for Eclipse 2.2M1 ships! http://j.mp/gFBTVa GWT Designer, HTML5 Support and CellTable enhancements.  Tell us wh ...
+|beckynagel: RT @AndroidDev: Google IO 2011 site is up, first few sessions announced: http://www.google.com/events/io/2011/sessions.html
+|beckynagel: RT @beeejay: Google Launches Cloud Print for iOS Devices http://t.co/V1fCPTz #IOS #Apple #Google #Cloud #Print
+|beckynagel: RT @google: 2011 will be the 7th annual Summer of Code. University student? Work on open source projects this summer http://goo.gl/ys5vn
+|beckynagel: Buh-bye, Demand Media? #Google algorithm changes to target &quot;content farms&quot; http://read.bi/ikz4px
+|beckynagel: RT @alleyinsider: In Another Blow At Content Farms, Google Could Let You Block Domain Names From Searches by @pegobry http://read.bi/gLigKZ
+|beckynagel: RT @rodtrent: Microsoft Kinect Developer Johnny Chung Lee Jumps Ship And Lands At Google http://bit.ly/fdPQgG
+|beckynagel: Best SEO article I've read in a LONG time: http://www.seo-theory.com/2011/01/07/why-you-cannot-reverse-engineer-googles-algorithm/
+|beckynagel: #Google Unveils #Admin Controls for #Chrome http://bit.ly/eSP547
+|beckynagel: Most Popular on ADT right now: Google Donates Two Eclipse Projects Worth $5 Million http://bit.ly/eSxcLr
+|beckynagel: RT @maxkatz: Google Chrome OS mauled http://ow.ly/3pMXm
+|beckynagel: New on ADTmag: Google Donates Two Eclipse Projects Worth $5 Million (#google #eclipse #java #opensource) http://bit.ly/eSxcLr
+|beckynagel: RT @evgenymorozov: WikiLeaks, I know you hear me, upload your stuff to Google/Facebook/Yahoo/MSN and see what they do with your docs. We ...
+|beckynagel: Wow- fast reaction from Google on that &quot;bad reviews are good&quot; ranking guy:http://bit.ly/fKeydf (+1 good)
+|beckynagel: Google Apps Get a Facelift http://bit.ly/9ONqpY
+|beckynagel: RT @Valleywag: Google Tipster Fired http://gawker.com/5686870/
+|beckynagel: Google Maps Dragged Into Border Dispute Between Nicaragua and Costa Rica  http://bit.ly/b6wUC2
+|beckynagel: RT @google: Can we make the whole web 2x faster? Do your part: get the new Apache module mod_pagespeed for your site http://goo.gl/hx4Uv
+|beckynagel: RT @HackerNewsYC: Google Sawzall now open source http://goo.gl/fb/esEgQ
+|beckynagel: RT @designtaxi: [Recap] Google amounts to 6.4% of ALL internet traffic worldwide http://su.pr/32EeOz
+|beckynagel: RT @Cisco_Mobile: Here's a copy of the #lawsuit #Gemalto filed against #Google #HTC #Motorola and #Samsung http://goo.gl/SxGC #android #java
+|beckynagel: RT @GoogleAtWork: See how Google Apps for Education integrates with Blackboard, Sakai, Moodle and more. http://bit.ly/aiftqn
+|beckynagel: RT @debasishg: IronPython escapes Microsoft .. joins Google ..  http://hugunin.net/microsoft_farewell.html
+|beckynagel: RT @joewilcox: RT @ianbetteridge: Why Google TV will fail, in one sentence - http://bit.ly/99ycJz
+|beckynagel: RT @HackerNewsYC: How to measure page load time with google analytics http://goo.gl/fb/96EQ9
+|beckynagel: RT @cote: Nice big ass bucket cold water from @vambenepe - http://monk.ly/99xygt - this time on Google AppEngine management.
+|beckynagel: RT @dudeman718: RT @wsjdigits: Google Exec Tweets to Tell Jobs What “Open” Is http://bit.ly/aEDgi0
+|beckynagel: RT @tomwarren: Wow Steve Jobs has spent about 10 minutes bashing Google Android on the earnings call
+|beckynagel: RT @GoogleAtWork: The new Google Search Appliance - a bridge to the cloud http://goo.gl/mQ9H #gonegoogle
+|beckynagel: Most Popular on ADTmag.com Today: Maven 3.0 Release Switches to Google's Guice Framework, Adds Aether http://bit.ly/aiknFn
+|beckynagel: RT @alleyinsider: Will Microsoft Take Another Shot at Google Docs Tomorrow? by @MattRosoff http://read.bi/9EE289
+|beckynagel: App Creators Talk App Engine at Google Lunch http://bit.ly/cdl3pV (#google #appengine #mobile) (Corrected Title)
+|beckynagel: Mobile App Creators Talk App Engine at Google Lunch http://bit.ly/cdl3pV (#google #appengine #mobile)
+|beckynagel: New from @johnkwaters on ADT: &quot;#Maven 3.0 Release Switches to Google's #Guice Framework, Adds #Aether&quot; http://bit.ly/aiknFn
+|beckynagel: Now on Redmondmag.com: &quot;Inside IE 9: The Chrome Effect&quot; http://bit.ly/aVYpWO (#ie9 #microsoft #google #chrome)
+|beckynagel: RT @ruby_news: Ruby, Rails, OpenID, and Google Integration for the Busy Developer http://bit.ly/92ZDSA
+|beckynagel: RT @om: This Just In DOJ Settles With Apple, Adobe, Google Over Hiring Collusion Charges http://t.co/eFz1jZU via @gigaom
+|beckynagel: RT @maryjofoley: Microsoft IE standards champion Chris Wilson is going to Google: http://zd.net/d4Qz2L
+|beckynagel: RT @rogerjenn: @geveperry answers Have Google #AppEngine and #Microsoft #Azure Surpassed #Rackspace? with #Zenoss market share data: htt ...
+|beckynagel: ADTmag.com: Google Re-Releases GWT Designer, Other Eclipse/Java Tools; Offers them Free http://bit.ly/9C1WbH   (#GWT #Eclipse #Java #Google)
+|beckynagel: Tech Brands Top 2010 Worldwide Brand Study: http://bit.ly/bzhgbw (#IBM #Microsoft #Google #Intel)
+|beckynagel: RT @dannysullivan: the @gawker story on google engineer who accessed private data http://bit.ly/cWoDUM now confirmed http://tcrn.ch/9RE0 ...
+|beckynagel: RT @migueldeicaza: Interesting post by @fosspatents arguing GPL would not have helped Google on a forked Java: http://bit.ly/doYJFW
+|DoubleBusiness: it is great to market Google places pages here in Canada as so few people have claimed theirs or even know they exist
+|VigilantCloud: Google, Facebook, Others Aim for Smooth Transition to IPv6 With the last blocks of IPv4 addresses allocated to each of t http://tiny.ly/1wGW
+|Imogo: RT @timoreilly Is it just me or has gmail slowed down a lot lately? I seem to be waiting for it way too often. #google #fail
+|Imogo: RT @slworking: And my GMail is still down. Glad I don't really rely on Google for business purposes. #google #gmail #fail
+|Imogo: Google accidentally resets 500,000 accounts and wipes out messages? Ouch. http://ow.ly/44tZz #google #fail
+|Imogo: Dell plans to introduce a U.S. version of its &quot;oPhone&quot; for China with Google's Android mobile software on AT&amp;T's network as early 2010
+|williamlc89: Google Opens Up Infographic Tools for Everyone's Use | Co.Design http://t.co/adaWgeW
+|williamlc89: Egypte: le PDG de Google &quot;très fier&quot; de ce qu'a accompli Wael Ghonim : http://www.france24.com/fr/node/4393649
+|williamlc89: Internet view by Google : The Creative Internet http://slidesha.re/ascbfr
+|williamlc89: RT @zoho: Zoho CRM: One of the Top 10 Installed Apps in the Google Apps Marketplace for 2010: http://bit.ly/ge2iCu
+|williamlc89: RT @AureliePerruche: Des applications Google en 3D avec la version Beta de Chrome 9 http://lnkd.in/PGWuBh
+|williamlc89: RT @KerstinvonAppen: #Google's Jahresrückblick, das Jahr war irgendwie kurz http://tinyurl.com/2bpqgyq
+|d_brow: RT @cloudHQ_net: good article! #SaaS Global CIO: Even For Google, No Free Pass For SaaS http://t.co/02z9F7x
+|d_brow: RT @cotendo: Great panel on Enterprise Cloud Services at CEBIT with T-Systems, #Cotendo, Google, Salesforce and SAP. Tune in http://bit. ...
+|d_brow: RT @ruv: Microsoft walks into a bar and checks everyone's license, Google walks in, gives everyone a free cookie and tracks everyone for ...
+|d_brow: @darrencrannis-&amp;gt; I use both #cloud storage - SkyDrive and GoogleDocs - depends on people I collaborate. Both are good.
+|d_brow: RT @stratascale: Choosing a reliable #cloud provider is critical. 2nd cloud-related debacle since Flickr: Google. http://ow.ly/454Ye
+|d_brow: Microsoft und Google. In der Cloud klappt's mit der Zusammenarbeit http://bit.ly/eOp2Ez #Cloud #SaaS
+|d_brow: Microsoft und Google. In der Cloud klappt die Zusammenarbeit http://bit.ly/eOp2Ez #Cloud #SaaS
+|d_brow: RT @TheCloudNetwork: #Google #Cloud Connect. Microsoft doesn't appear to be either too happy o... http://bit.ly/e2rw7m
+|d_brow: Microsoft geht nun auch bei Google Docs: http://bit.ly/eOp2Ez
+|d_brow: RT @steffenmeier: Die Umsätze der Web-Giganten – so viel verdienen Google, Facebook und Co http://ow.ly/3Ycv2
+|d_brow: 4 case studies showing the #value of #cloud computing 
+
+
+
+http://bit.ly/eZ5MHR #cio #google
+|d_brow: Four case studies showing the #value of #cloud computing http://bit.ly/eZ5MHR #cio #google
+|d_brow: Four cases showing the #value of #cloud computing http://bit.ly/eZ5MHR #cio #google
+|john_fahey: Google's SEO Starter Guide: http://bit.ly/gY9NFo via @addthis
+|john_fahey: Give yourself a treat and check out the Art Project, powered by Google: http://www.googleartproject.com/ via @addthis
+|lanecdote: Merciii!!!:)) RT @poofterorg: @lanecdote Cette nourriture semble grand! Je dois visiter Montréal fois! (Désolé pour Google Translate.)
+|RetweetingDaily: RT @Zee: Big: Google lets you hide certain sites from results -- no extension required. http://tnw.to/17YXV
+|RetweetingDaily: RT @ChilieWillie: China Renews Google Internet License http://redgage.com/c-hanhh
+|RetweetingDaily: RT @nytimesbusiness: Bits: Google Search Results Get More Social http://nyti.ms/ehJNtc
+|SwyftInteract: Afternoon Google tip: In a Google search, when you don't recall a bit of info, use '*' (wild card) ex. John * and Associates #thankyou
+|SwyftInteract: Google Testing #mobile payments: http://read.bi/et3GQM #cloud
+|SwyftInteract: RT @aboutfoursquare: Ha! &quot;@dens is looking to make a career of selling the same company to Google over and over again&quot; - @karaswisher on ...
+|SwyftInteract: RT @tristanwalker: this google news is crazytown.
+|SwyftInteract: RT @LindsayFultz: Great idea! Google Launches Site for Teaching Tech to Your Parents http://t.co/ZI8DuU1 (@mashable)
+|SwyftInteract: RT @dondodge: My first year at Google. Things I learned. http://bit.ly/9YzSjm Achieving 60% of the impossible is better than 100% of the ...
+|SwyftInteract: RT @dhbook Tony Talks Delivering Happiness at Google http://bit.ly/dx9FC4
+|structureconf: Companies interviewed for our new report include big data giants like eBay, Orbitz, Google and more. http://bit.ly/BigD2011
+|structureconf: #bigdataconf session featuring Alfred Spector of Google: The Prodigiousness of Data http://bit.ly/bigdTW
+|structureconf: #bigdataconf features sr. execs &amp; data scientists from data giants like Google, Yahoo!, Microsoft, Bloomberg &amp; NYT. http://bit.ly/bigdTW
+|structureconf: RT @GigaOMPro: Google and Factual Struggle to Define the Data Marketplace http://bit.ly/fq7OWZ - new from @PaulMiller and @GigaOMPro
+|structureconf: #bigdataconf features sr. execs &amp; data scientists from data giants like Google, Yahoo!, Microsoft, Bloomberg &amp; NYT. http://bit.ly/bigdTW
+|structureconf: #bigdataconf speakers: Jeff Jonas of IBM, Alfred Spector of Google &amp; Barry Zane of Par Accel. http://bit.ly/bigdTW
+|structureconf: #bigdataconf features sr. execs &amp; data scientists from data giants like Google, Yahoo!, Microsoft, Bloomberg &amp; NYT. http://bit.ly/bigdTW
+|structureconf: Matt says the way to challenge Amazon, Google, etc. is through open source.
+|BobbySRQ: Google Instant Previews Go Mobile, Are Handier Than Ever http://t.co/IUBdjKX via @techcrunch
+|BobbySRQ: HubSpot Takes $32 Million Investment From Sequoia, Google Ventures And Salesforce http://t.co/evrJzOQ via @techcrunch
+|BobbySRQ: RT @RandDMagazine Google shares few details about Okla. data center | R&amp;D Mag http://bit.ly/gT8UMP
+|BobbySRQ: TechCrunch Giveaway: A Google Nexus S #TechCrunch http://t.co/0fnMZM1 via @techcrunch
+|BobbySRQ: Google Offers Respite From Inbox Overload - NYTimes.com http://lnkd.in/xniiPC
+|BobbySRQ: Google CEO Schmidt: &quot;People Aren't Ready for the Technology... http://lnkd.in/mn3YDR
+|BobbySRQ: Google and The New York Times Battle Over Search Neutrality http://lnkd.in/pZDKBK
+|BobbySRQ: Google's Schmidt undaunted by Apple or Facebook http://r.reuters.com/gyz66m
+|BobbySRQ: Google to fight government if AdMob deal blocked http://link.reuters.com/dub94k
+|BobbySRQ: Sarasota and Google http://goo.gl/09Qx
+|BobbySRQ: Google plans to build and test superfast Internet service http://usat.me?37491222
+|BobbySRQ: NYTimes: Google Applies to Become Power Marketer http://s.nyt.com/u/As9
+|BobbySRQ: RT @TechCrunch: Google Voice Is Coming Back To The iPhone Via The Browser, Thanks To VoiceCentral http://bit.ly/7ysXBL
+|BobbySRQ: FTC taking closer look at Google's AdMob purchase http://usat.me/?37103762
+|BobbySRQ: Interesting post - Inside a Google Container Data Center - Video Tour. http://bit.ly/XkFzF
+|BobbySRQ: @bigbadbrownowl I'm back in srq  http://maps.google.com/?q=27.271575%2C-82.522967&amp;ll=27.271575%2C-82.522967
+|BobbySRQ: Here I am: http://maps.google.com/?q=27.271575%2C-82.522967&amp;ll=27.271575%2C-82.522967 
+At the steel can alley throwing back some PBR
+|Daniell3138: :P http://bit.ly/fSz5ju The Gadget Show Web TV - Episode 3: Google G1 and Networks gadget show
+|Daniell3138: Google master Tools sitemap error? http://bit.ly/etgwYj :O google maps link parameter
+|Daniell3138: Nice Google Earth Street View Download photos google earth street view http://bit.ly/iks96h
+|Daniell3138: google ! http://bit.ly/fiz6MW Obtaining coordinates in Google Earth
+|Daniell3138: Google Your Next Home: Using Google Earth to Find Real Estate http://bit.ly/eyyiwD next home
+|Daniell3138: Escapism Pedal Through Google Streetview in the Science Gallery Dublin science gallery http://bit.ly/ifKp3C :)
+|Daniell3138: Nice Google Map Street View photos google map street view http://bit.ly/gKe2zV !
+|Daniell3138: google ;) Nice Maps.google.ch photos http://bit.ly/dJ6V6J
+|Daniell3138: Cool Google Maps V3 images http://bit.ly/fDPTkL ;P images
+|Daniell3138: http://bit.ly/e1QRPo google ;O Google Maps, Sprint Navigation,  CoPilot Live on the Sprint HTC EVO 4G
+|Daniell3138: google http://bit.ly/gKJa99 ;O Google Street View Car
+|Daniell3138: google map api ;) How to add a marker in Google Maps API? http://bit.ly/g2mVZI
+|Daniell3138: ;P google Escapism Pedal Through Google Streetview in the Science Gallery Dublin http://bit.ly/gQC9Oy
+|Daniell3138: My followers gadget for google is not working or showing up, what do I do? Removing Bullets in Sidebar followers ! http://bit.ly/hnjS29
+|Daniell3138: Google Street View - 100 Best Sightings EVER!! sightings :O http://bit.ly/dJA9Ig
+|Sade446: Cool Google Earth Maps Street View images ! google http://bit.ly/fs6tpX
+|Sade446: http://bit.ly/gs65rG :) Cool Google Maps Text images text images
+|Sade446: earth Junk in the Trunk - Google Earth Street View Sighting http://bit.ly/hlaiTw ;)
+|Sade446: How to utilise Google maps http://bit.ly/eb4nou google
+|Sade446: ;P http://bit.ly/hkDyuP HTC Nexus One by Google unlocked Smartphone reviews nexus
+|Sade446: Google Maps 5.0 for Android demo http://bit.ly/hxA9s7 :P google
+|Sade446: http://bit.ly/ieoNP0 images Cool Route Google Maps images :P
+|Sade446: Google's Search Rivalry: Morning Tech Bytes rivalry http://bit.ly/gRGL4v :P
+|Sade446: http://bit.ly/h4jZyT Nice Google Earth 2010 photos google !
+|Sade446: google Google Maps, Sprint Navigation,  CoPilot Live on the Sprint HTC EVO 4G http://bit.ly/e1QRPo
+|Sade446: google street view :) http://bit.ly/dJEGqd The Chase: Google Street View
+|Sade446: restaurant business http://bit.ly/esEOb6 How Google maps can help in restaurant business promotion .
+|Sade446: Google Map Submission google ;P http://bit.ly/hCy3tt
+|Sade446: Google earth street view http://bit.ly/ewX1yw google earth street maps .
+|Sade446: http://bit.ly/etU68v . Introducing real estate search on Google Maps Australia google
+|Sade446: google http://bit.ly/geBh8b ! Google Celebrates Data Privacy Day…Really?
+|Sade446: Cool Google Maps Print images http://bit.ly/h4tNL7 google
+|Sade446: http://bit.ly/gSc0zY ! Nice Google Maps Tool photos google maps
+|Sade446: http://bit.ly/hViJyh Google Maps (Part I of &quot;The Googling&quot;) googling
+|Sade446: http://bit.ly/f56v9e Google Street View , the long story ;O google
+|Sade446: images Cool Google Earth 2010 images ;P http://bit.ly/elwYMo
+|Sade446: Street View in Google Earth http://bit.ly/g5yOfL google :P
+|Montclairadvrs: #SaaS darling @Hubspot raises $32M from @Google, @Salesforce, #Sequoia and #Kliener http://bit.ly/eRhU7u Looks like a cool tool #crm #cloud
+|Montclairadvrs: The Montclair Advisors SaaS Daily is out! http://bit.ly/f0XOao ? Top stories today by @ventanaresearch @googlecse @brady @thetechgang
+|Montclairadvrs: When does #google just buy #motorola?  Google saves Moto. #df10
+|Montclairadvrs: Check out Montclair Advisors #Echosign #SaaS Profile http://bit.ly/aoHYQ0 @fromechosign #cloud #crm #salesforce #oracle #netsuite #google
+|Montclairadvrs: #Netsuite to offer suite on #Google Apps Mktpl http://bit.ly/9w1iOw #saas #cloud #erp #software
+|Montclairadvrs: #Google Apps is solving a major #SaaS / #Cloud apps problem - integration and security.  Similiar to SFDC.  Video: http://bit.ly/cOThMX
+|Montclairadvrs: @Google Apps Marketplace, like AppExchange http://bit.ly/d3ebUN  Very interesting.  #saas #cloud #appexchange #sfdc #software
+|Montclairadvrs: rumor: #google to buy #yelp for $500M. Schmidt is on a deal/mo pace. #saas #cloud http://bit.ly/8C2aGK
+|Montclairadvrs: Interesting #Google to acquire Admob http://bit.ly/1xhGT6 for $750M.  VC's have to like th trend.  #saas #cloud #admob
+|Montclairadvrs: RT @google: It was 40 yrs ago today: ARPANET transmitted first message between computers. @forbes_magazine quiz: http://bit.ly/4A0jCe
+|Montclairadvrs: RT @karaswisher #Google &amp; #Micosoft fish for acquisitions.  A deal a month is all we ask :) http://bit.ly/XlI2i
+|Montclairadvrs: @Cytiva the ? to ask is how many processors/svr and what trans volume r they supporting.  Google &amp; Amazon have huge svr farms w cheap svrs
+|Montclairadvrs: City of LA moving to Google Apps for 17,000 ees'.  Investing $2M but saving $13.8M.  Following Wash DC's move in 2008. http://bit.ly/1SOkjX
+|Montclairadvrs: Salesforce.com and Google Apps teaming up for new Cloud based SaaS platform offering   @eWeek http://tinyurl.com/np66ca
+|Montclairadvrs: Partnering might be cool again with the emergence of PaaS, Apple App Store, Salesforce AppExchange, Google, Amazon, FaceBook...
+|Montclairadvrs: Interesting WP on Cloud Computing that was commissioned by Google... http://www.marketspaceadvisory.com/cloud/.  What are they up to?
+|Frederic_Delvin: vidéo -- Discussions in Google Docs http://t.co/mKjw3xm via @youtube
+|Frederic_Delvin: La voiture Google sans chauffeur (techno-report) http://t.co/xMzP4nA via @youtube
+|Frederic_Delvin: JTech 43 : en voiture (sans chauffeur) avec Google ! http://t.co/mPmN9v4 via @youtube
+|Frederic_Delvin: What is Google Voice? http://t.co/QmJvayn via @youtube
+|Frederic_Delvin: Google's Ass-kicking Self-Driving Car http://t.co/byGNRHB via @youtube
+|Frederic_Delvin: JTech 38 : The Daily sur iPad, Kheops, Google Art Project ( http://www.youtube.com/watch?v=1nbE1JY7X4s )
+|Be_Direct: Black hat anyone? Linking strategies are important but beware of the wrath of Google http://nyti.ms/dEyldl
+|itwhitepapers: Measuring The Total Economic Impact Of Google Apps. http://tinyurl.com/4du3ejd
+|commtechnt: Google Squashes (Another) Potentially Serious Bug - Android Police: ZDNet UKGoogle Squashes (Another) Potentially Serio.. http://dld.bz/RjgX
+|commtechnt: Google Takes Heat Over App Security - Wall Street Journal: The Tech HeraldGoogle Takes Heat Over App SecurityWall Stree.. http://dld.bz/Rc6a
+|commtechnt: Google launches counterattack on malware with fixes and “remote kill” - VentureBeat: VentureBeatGoogle launches counter.. http://dld.bz/QPSW
+|commtechnt: Google Chrome's Address Bar Folly No Cause for Alarm - PC Magazine: Google Chrome's Address Bar Folly No Cause for Alar.. http://dld.bz/Pnc8
+|commtechnt: Google Doubles Down On Gmail Security - The Consumerist The ConsumeristGoogle Doubles Down On Gmail SecurityThe Consume.. http://dld.bz/Mwjv
+|commtechnt: Google Adds Phishing Alert for Network Administrators - eWeek Google Adds Phishing Alert for Network AdministratorseWee.. http://dld.bz/zHM2
+|commtechnt: Google's Random Security - Forbes (blog) Google's Random SecurityForbes (blog)Other kinds of security – locks or alarm .. http://dld.bz/wtXP
+|commtechnt: Google sets off false alarm on China searches - V3.co.uk Google sets off false alarm on China searchesV3.co.ukThe compa.. http://dld.bz/p42H
+|commtechnt: Google's Watching — Sound the Alarm! - ADOTAS Google's Watching — Sound the Alarm!ADOTASConsider this — when you walk d.. http://dld.bz/pfd6
+|commtechnt: Google's Windows ban should trigger an alarm ? - News Provider News ProviderGoogle's Windows ban should trigger an alar.. http://dld.bz/fBYu
+|espirit_news: Easy #Integration #Google #maps in #FirstSpirit #cms w/ appcenter. Video: http://e-spirit.com http://yfrog.com/gyohsesj
+|espirit_news: RT @hilcobroens: Managing geolocation with #FirstSpirit #CMS, cool! Google earth and maps integration. #Espirit_pt
+|espirit_news: RT @kernpunkt: Webinar am 21.10.: SEO mit #FirstSpirit. So kommen Sie bei Google unter die Top 10. Jetzt anmelden: http://bit.ly/9DJaMz
+|espirit_news: RT@ZDNet_de #Oracle gegen #Google: Die IT-Branche schüttelt den Kopf - was passiert mit #Java http://zdnet.de/41536466/ #cms
+|espirit_news: RT @kernpunkt: Google beteiligt sich heimlich an Zynga: Mehr als 100 Millionen US-Dollar http://tinyurl.com/3yttxv5
+|espirit_news: RT @Pollin8theWeb: How #Google Ranks #Tweets - http://bit.ly/6dwW72 #twitter #SEO
+|christophwitte: Googles Group Messaging App &quot;Disco&quot; wird als instabil und featureschwach kritisiert. http://is.gd/PJiC0l
+|christophwitte: Nic Carr kritisiert Larry Page´s (Googles Chief Scanner) dann-verklag-mich-doch-Strategie in Sachen Buchdigitalisierung http://is.gd/HhragU
+|christophwitte: Steigt Facebook in das Geschäft mit Websuche ein und macht Google und Microsoft Konkurrenz? Das Unternehmen dementiert. http://is.gd/mJRXEC
+|christophwitte: Google gibt Sourcecode von #Honeycomb für Tablets vorerst nicht frei - es sei noch nicht reif für andere Entwicklerhttp://is.gd/itO7Oq
+|christophwitte: Google, Post, Strato und andere verbrämen marketinggetriebene Eventkampagne mit  Internet-Nachhilfe für den Mittelstand. http://is.gd/EcsIy7
+|christophwitte: Richter lehnt Vereinbarung mit Autoren  ab und legt Googles #Buchdigitalisierung wegen Copyright-Bedenken auf Eis. http://is.gd/IyDpGt
+|christophwitte: Mutiert Google vom Content-Manager zur Medien-Company und zum gefährlichsten Rivalen aller Medienunternehmen fragt NYT http://is.gd/X2am2c
+|christophwitte: Apples iPhone 4 ist langsamer im Web unterwegs als Android basiertes Nexus S von Googlehttp://is.gd/LYstLh
+|christophwitte: Die eben genannten &quot;einigen Googlemail-User&quot; entpuppen sich als bis zu 150 000 Nutzer, deren E-Mails verschwunden sind. http://is.gd/1xeh7H
+|christophwitte: Einige Googlemail-User vermissen offenbar aktuelle Mails und beklagen leeren Mail-Speicher. http://is.gd/obWQIH  http://is.gd/IKjWDa
+|christophwitte: GooglesCloud Connect Plugin jetzt verfügbar. MS-Office-Nutzer könnnen damit Dokumente sharen und gemeinsam bearbeiten. http://is.gd/aeoguH
+|christophwitte: Demand Media II: Content Farm sieht sich von Googles Algorithmus-Änderung nicht betroffen http://is.gd/HFgGE5
+|christophwitte: Google verändert Suchalgorithmus und dreht damit damit Contentfarmen wie Demand Media mittelfristig den Trafficzulauf ab.http://is.gd/vjhdXR
+|christophwitte: Cisco stoppt seinen Webmail-Service für Unternehmen, Cisco Mail. Offenbar war´s zu wenig, gegen Google oder Microsoft http://is.gd/MNDHv3
+|christophwitte: Vielleicht ist die iTunes-Alternative von Google, One Pass http://is.gd/BtZsty , billiger für Verleger http://is.gd/eY40wv als Apples Kasse
+|christophwitte: MicroNok: Microsoft hat Milliarden $ bezahlt, damit Nokia Windows Phone als Plattform nutzt und nicht Googles Android.  http://is.gd/rk53oE
+|christophwitte: Reichen Googles Fähigkeiten im Bereich vertikaler Suche (Reise) eigentlich aus, um in diesem Feld erfolgreich zu sein? http://is.gd/lxOei1
+|christophwitte: Google wirft Microsoft vor, seine Suchergebnisse zu kopieren, um Bing-Ergebnisse zu verbessern. http://tinyurl.com/6laxk96
+|christophwitte: Google verteidigt Qualität seiner Suchergebnisse und bläst zum Angriff auf Content-Farms http://is.gd/Jw6h2t
+|christophwitte: Google: Solides Ergebnis http://is.gd/73fyzp, Groupon-Clone http://is.gd/BESpBL,@ericschmidt CEO-Abschied http://is.gd/hwoUfY
+|christophwitte: Google erhöht App-Verfügbarkeit auf 99,9 Prozent und verzichtet auf Wartungsfenster-Klauseln in Service-Verträgenhttp://is.gd/ChD9Xx
+|christophwitte: Man gönnt sich ja sonst nichts: Google-Gründer Larry Page kauft Super-Yacht für 45 Mio $http://read.bi/dPLhho
+|christophwitte: SAPs Streamwork im Google Apps Marketplace. Damit können  auch in Goolge Apps gespeicherten Daten genutzt werden. http://bit.ly/ijRoF4
+|christophwitte: Google: So kann man Rückblicke auch machenhttp://bit.ly/fLR4RW und danach haben die Deutschen am meisten gesucht http://bit.ly/hUxiJx
+|christophwitte: Nicht 2,5 Mrd $, sondern twischen 5,3 und 6 Mrd $ will Google anscheinend für Social-Commerce Anbieter Groupon zahlenhttp://bit.ly/f5VCFl
+|christophwitte: Bisher keine Übernahme von Groupon durch Google. Insider hält zudem den genannten Preis von 2,5 Mrd $ für zu niedrig http://read.bi/i0G07R
+|christophwitte: Google soll Online-Schnäppchenanbieter Groupon für 2,5 Mrd $ gekauft haben, meldet vatornews unter Verweis auf Insider http://bit.ly/gorEgr
+|christophwitte: #Tim Wu sieht mit Google, Facebook, Amazon, Apple und Twitter neue Monopolisten entstehen. Hat er Recht? http://on.wsj.com/bWWx2e
+|christophwitte: Harsche Kritik an Googles #App Enginehttp://rww.to/hu3qvy von einem spanischen Entwickler. Unerwartet viele schließen sich seiner Kritik an.
+|christophwitte: Neues Leben für böse geflopptes Realtime Communication und Collaboration Tool Google Wave als Opensource-Projekt?  http://on.mash.to/dUjDVs
+|christophwitte: Was passiert eigentlich, wenn Google http://nyti.ms/h3yCdu , ein eigenes Tablet unter Chrome OS herausbringt? Erweiterung der Kampfzone?
+|christophwitte: Google soll Interesse an Shootingstar Groupon haben. http://bit.ly/cOaHDIGroupon bietet Abonennten via Web Rabatte für Consumer-Produkte an
+|christophwitte: Localisation comes creep across the globe (frei nach Frank Zappa). Google places startet mit Empfehlungsservice Hotspot http://bit.ly/d2JJ5I
+|christophwitte: Als Cloudfunktion in Google Docs: Kann man mit Google bald drucken wo man will? http://bit.ly/9HrTdh
+|christophwitte: Google: In 9 Monaten 1,6 Milliarden $ für  40 Akquisitionen ausgegebenhttp://bit.ly/dxnXE8 AdMob, Slide, On2Technologies waren am teuersten
+|christophwitte: Wie einfach es ist, Google-Chef Eric Schmidt zu sein und viele, viele &quot;Freunde&quot; auf Facebook einzusammelnhttp://tcrn.ch/aRgSyf
+|christophwitte: Bei experton:Telekom wird von befragten performanter eingeschaetzt in sachen cloud als Google ???!
+|christophwitte: Warum es für Google sinnvoll wäre Twitter zu kaufen? http://bit.ly/9Bfiup Dann wäre facebook nicht mehr der unbestrittene Platzhirsch in SM
+|christophwitte: Wo Google Inhalte löschen muss, zeigt Google in seinem Transparency-Report , aber es sind Selbstangaben. Schick gemacht http://bit.ly/a0ODW7
+|fionafinance: Google Finance | Stock Info Online – Find Great Stock Market Resources http://bit.ly/fdTR3L
+|fionafinance: Google Finance | Google Finance – Don’t Be Investment Fraud http://bit.ly/fd22Fn
+|fionafinance: Make Money Blogging | Links That Can Get Your Penalized Or Banned By Google http://bit.ly/gb07Yc
+|fionafinance: Google Finance | Great Business Apps For Android Users http://bit.ly/i5nZlP
+|fionafinance: Google Finance | Where Sddam Hseen http://bit.ly/fJz7FK
+|fionafinance: Online Business Ideas | Advertising Agency In Berkeley CA | Marketing Online Online Business Ideas Google Seo http://bit.ly/grYSbk
+|jstan: RT @Scobleizer: RT @RWW: Why Would Google Release an iPhone-Only Group Messaging App? http://rww.to/htCbEc http://ow.ly/1bX2U8
+|iainthepict: Check out Google's new magazine / book / periodical - it's quarterly, 'cos it'll take that long to read: http://tinyurl.com/4lex62d
+|iainthepict: Will Linux IPR issues put the Angry Bird amongst Google's Pigeons? http://tinyurl.com/5wpujfe
+|iainthepict: Google circles elektrisiert was? Fast nichts oder... http://tinyurl.com/626g3sf
+|iainthepict: RT @TechCrunch The Power Of Voice: Head Of Google's Speech Technology http://tcrn.ch/fgHPp9 - as long as you've not got a Scottish accent
+|iainthepict: RT @googlebooks: Buy and read Google eBooks where you want to: http://books.google.com/ebooks
+|iainthepict: RT @meenavirgo: Today’s Big Rumor: Google Buys Groupon for $2.5 Billion http://ow.ly/1acY63 ...but it's only in the USA is it not?
+|iainthepict: For Flock sake: http://twurl.nl/kg422g RockMelt Mozilla Google Facebook Twitter Chrome (funny that facebook gets a wavy red underline)
+|iainthepict: RT @s3cb0t: 3% Germans opt out of Street View Google admits homes may still be visible http://bit.ly/cexgbg Ha! Nur 3%. Dann ist es OK? ;-)
+|iainthepict: RT @s3cb0t: Google hits back over Jobs' Android jibes: http://bit.ly/aopesQ is it apples vs. pears or ersatz apples vs. gold 'n' delicious
+|iainthepict: New Gmail Phone Service Could Boost Google Stock by 3% http://bit.ly/c9tbAn via @trefisnotes $GOOG
+|iainthepict: Google will Apple offenbar im Musikgeschäft Konkurrenz machen... http://twurl.nl/t18he4
+|iainthepict: Google Voice goes traditional: http://twurl.nl/mrfvw0 Google-red telephone boxes make voice calls over the Internet - now that's a makeover
+|iainthepict: RT @testmyapps: Google to take on Skype with VoIP service?: 
+					Could voice calling be added to Google's armoury?
+				
+					
+			... ht ...
+|iainthepict: Google software gets ready to tell you what you want to hear: http://twurl.nl/g8fdlz &quot;we believe what we want to believe&quot;
+|iainthepict: RT @erintraudt: BBC News Google boss warns of social media http://www.bbc.co.uk/news/technology-11009700 I used to be dangerous, I'm OK now
+|iainthepict: RT @s3cb0t: Germans wary over Google Street View: Critics slam navtool just like Stasi http://bit.ly/bqAyCy denk nach Das Leben des Anderen
+|IBMcloud: RT @nsirota: IBM LotusLive Symphony: Google Needs To Watch Out by @krishnan: http://bit.ly/fSAQFu #ibmcloud #collaboration
+|IBMcloud: RT @lotuslive: CloudAve says Google watch out:  Here comes #IBM #LotusLive Symphony  http://bit.ly/fklyA6 #ibmcloud http://fb.me/ISbcX587
+|iainthepict: RT @andrewnich: RT @TechCrunch: Google to Buy Global IP Solutions $68.2 Million Cash- http://twurl.nl/aseydc by @robinwauters #hdvoice #voip
+|gy1800: Apple Computers | “Google Earnings” LIVE! Trading Video HUGE DOWN In (GOOG) Stock … http://goo.gl/10WSe
+|gy1800: Maps For Mobile | Marissa Mayer: Google Will Connect The Digital &amp; Physical Worlds Through Mobile http://goo.gl/Qo3Pq
+|gy1800: Maps For Mobile | Marissa Mayer: Google Will Connect The Digital &amp; Physical Worlds Through Mobile http://goo.gl/Qo3Pq
+|gy1800: Maps For Mobile | Google Maps For Android: Real-Time Traffic Rerouting Now Available http://goo.gl/BkJ8M
+|gy1800: Maps For Mobile | Google Maps For Android: Real-Time Traffic Rerouting Now Available http://goo.gl/BkJ8M
+|gy1800: Notebook Memory | First Look: Google Cr-48 http://goo.gl/HZvX5
+|gy1800: Notebook Memory | First Look: Google Cr-48 http://goo.gl/HZvX5
+|gy1800: Google Maps Mobile | Tutorial Google Maps Di Ponsel/handphone Android http://goo.gl/ldPFy
+|gy1800: Maps Mobile | SHARING: Google Launches Google Latitude Check-in For Android http://goo.gl/DweQX
+|gy1800: Maps Mobile | SHARING: Google Launches Google Latitude Check-in For Android http://goo.gl/DweQX
+|gy1800: Apple Computers | Google Versus Apple: Why Google Is Winning http://goo.gl/LbLgH
+|gy1800: Google Versus Apple: Why Google Is Winning http://bit.ly/hRtrRX
+|gy1800: Google Versus Apple: Why Google Is Winning http://bit.ly/hRtrRX
+|gy1800: Google Mobile | Google Mobile Web: Now With Interactive Weather http://goo.gl/F6Pdx
+|gy1800: Google Mobile | Google Mobile Web: Now With Interactive Weather http://goo.gl/F6Pdx
+|gy1800: Gmail Mobile | Google Gmail App Gets Cloud Print Upgrade http://goo.gl/JRJUc
+|gy1800: Gmail Mobile | Google Gmail App Gets Cloud Print Upgrade http://goo.gl/JRJUc
+|gy1800: Mobile Contract | Google Voice Ports Your Own Number For $20 http://goo.gl/TGMJA
+|gy1800: Maps For Mobile | Google Places Expands Mobile Ranking Feature http://goo.gl/cH6LP
+|gy1800: Maps For Mobile | Google Places Expands Mobile Ranking Feature http://goo.gl/cH6LP
+|gy1800: Google's Chrome Problem- And Everyone's http://bit.ly/fo8zvb
+|gy1800: Google's Chrome Problem- And Everyone's http://bit.ly/fo8zvb
+|IQArmy: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|IQArmy: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|IQArmy: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|IQArmy: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|IQArmy: RT @DhilipSiva_And: #Android #Google Tablets will kill laptops http://bit.ly/eWOuJE #DhilipSiva
+|IQArmy: RT @DhilipSiva_And: #Android #Google Tablets will kill laptops http://bit.ly/eWOuJE #DhilipSiva
+|IQArmy: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|IQArmy: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|IQArmy: Did Google Just Get Smarter? Links generated based on negativity are no longer positive for Google rankings.  http://cot.ag/hW8XHG
+|IQArmy: Did Google Just Get Smarter? Links generated based on negativity are no longer positive for Google rankings.  http://cot.ag/hW8XHG
+|IQArmy: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|IQArmy: RT @technologynew: Google Chrome Gets Its Own PDF Viewer http://bit.ly/bIXFwC
+|IQArmy: RT @technologynew: Google Chrome Gets Its Own PDF Viewer http://bit.ly/bIXFwC
+|TouchlineMktg: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|TouchlineMktg: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|TouchlineMktg: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|TouchlineMktg: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|TouchlineMktg: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|TouchlineMktg: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|TouchlineMktg: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|TouchlineMktg: RT @IQArmy: Did Google Just Get Smarter? Links generated based on negativity are no longer positive for Google rankings.  http://cot.ag/ ...
+|TouchlineMktg: RT @IQArmy: Did Google Just Get Smarter? Links generated based on negativity are no longer positive for Google rankings.  http://cot.ag/ ...
+|TouchlineMktg: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|TouchlineMktg: How Can Your Website’s Search Box Can Save You Money? http://dld.bz/6S8Q @TouchlineMktg #GoogleAnalytics
+|TouchlineMktg: A Google Logo For Your Birthday searchengineland.com/a-google-logo-… via @sengineland
+|TouchlineMktg: A Google Logo For Your Birthday searchengineland.com/a-google-logo-… via @sengineland
+|TouchlineMktg: A Google Logo For Your Birthday http://t.co/Mtz0DGe via @sengineland
+|TouchlineMktg: A Google Logo For Your Birthday http://t.co/Mtz0DGe via @sengineland
+|HypeTec: RT @ForbesTech: Why Google Is Playing Nice With European Regulators http://j.mp/igGc8G [post by @parmy]
+|HypeTec: RT @ForbesTech: Why Google Is Playing Nice With European Regulators http://j.mp/igGc8G [post by @parmy]
+|HypeTec: The country of spain is taking google to court???? wow
+|HypeTec: The country of spain is taking google to court???? wow
+|HypeTec: ¿Google TV vs Apple TV? Which is better
+|HypeTec: So confused please explain?? RT @gruber: RT @duncan: The discussion around this Google dropping codecs thing is (cont) http://tl.gd/86jjm3
+|HypeTec: So confused please explain?? RT @gruber: RT @duncan: The discussion around this Google dropping codecs thing is (cont) http://tl.gd/86jjm3
+|eugenejoe56: Sprint Mobile | Google Voice Integrated With Sprint http://dlvr.it/LfXhW
+|eugenejoe56: Sprint Mobile | Google Voice Gets Into Sprint Mobile Phones http://dlvr.it/LMWbJ
+|eugenejoe56: Google Maps Mobile | ‘Reeds 150 Miljoen Gebruikers Van Google Maps Mobile’ http://dlvr.it/L8njJ
+|eugenejoe56: Google Maps For Mobile | AU ” Google Maps Mobile http://dlvr.it/KfkXf
+|eugenejoe56: Mobile Security | Google Search, Data Breach Survey, Mobile Security Lead Week’s Security News http://dlvr.it/K8tzM
+|eugenejoe56: New Cell Phones | MWC 2011: Umeox Apollo Is A Solar Powered Google Smartphone [The Umeox Apollo … http://dlvr.it/K7k1q
+|eugenejoe56: Google Maps Mobile | Google Navigation Vous Vitera Les Embouteillages http://dlvr.it/Jv4lq
+|eugenejoe56: Blackberry Applications | RIM May Rip A Page From Google For Playbook http://dlvr.it/HpRWN
+|TrueCloud: Google Presentations just keeps getting better - love the ability to add backgrounds to the slides... another score for cloud computing!
+|TrueCloud: Looking for pivot tables from Google Docs - that &amp; conditional formatting beyond color changing - ahh true Office replacement in the Cloud!
+|TrueCloud: Does anyone have experience integrating NetSuite analytics with Google analytics? Anything massively creative that you'd like to share?
+|Napaboy: ... Y que Google borra todos los perfiles privados de sus usuarios! Están peor que Facebook! ... Bueno de hecho siempre ha sido así!
+|Napaboy: Antes eran espias de la cia los que provocaban inestabilidad en otros paises ahora son empleados de google http://ti.me/eRkro2
+|Napaboy: Por dios no!! por CIA y google!RT @cnnmexico_tech: Las revueltas en el Mundo Árabe:una revolución creada por Facebook? http://cnn.mx/n000I0O
+|Napaboy: #Google estrena un #buscador de #recetas de #cocina #Vídeo http://goo.gl/fb/BZgRh
+|Napaboy: @KeLoKiTa Google earth herramienta regla!
+|Napaboy: Google Crisis Responce http://bit.ly/hhN7P7 de Google ante desastres
+|Napaboy: RT @google: Christchurch earthquake resources, maps, news + Person Finder
+http://www.google.com/crisisresponse/christchurch_earthquake.h ...
+|Napaboy: Me pregunto si habrá también &quot;empleados de Google&quot; en los demás países arabes provocando las revoluciones que se ven en las noticias
+|Napaboy: Wtf! What about privacy!? RT @GoogleTravel: Car hire company to track travellers with GPS devices | News.com.au http://bit.ly/dKIVH5
+|Napaboy: RT @Teknologeek: Post: Google Airlines http://is.gd/NNJ87z #teknologeek
+|Napaboy: ¿Qué empresa tecnológica se arriesgaría a invertir en un país donde (con la ley en la mano) se podría cerrar incluso a google?
+|Napaboy: RT @Teknologeek: Post: Mozilla Sync No es Muy Diferente de Google o Facebook http://is.gd/UrNSZu #teknologeek
+|Napaboy: Noooo! Si uno d esos lo compra lo dejare d usar RT @El_Universal_Mx: Google y Facebook analizan la compra de Twitter http://bit.ly/gITlH9
+|Napaboy: Llevo probando todo el día el traductor de Google para iPhone IMPRESIONANTE y gratis!! Ya lo probaron ustedes? http://is.gd/ZiotxQ
+|Napaboy: @LuisGyG RSS no es sinónimo de Google reader!
+|Napaboy: RT @GeeksRoom: Homenaje de Google a Julio Verne con logo interactivo http://goo.gl/fb/dpcNi
+|Napaboy: @internetox ni yo de hecho cuando busco en google y bing siempre me han salido diferentes resultados
+|Napaboy: La tabla periódica de Google http://bit.ly/eU33Gu
+|Napaboy: Zapopan se muda a la plataforma Google.  los funcionarios, maestros y alumnos podrán tener cuenta d correo y pag  web http://bit.ly/i72RDQ
+|Napaboy: Noticia 4: que Mozilla y Google ofreceran opcion de privacidad en firefox y chrome....chales mas doble moral no pueden
+|Napaboy: Me entero de que google me &quot;pirateo&quot; una idea que queria lanzar y de hecho hasta invertir fuerte en ella y otras 2 de gente rara
+|Napaboy: @StrategiesWeb J'ai aussi utiliser le lecteur google! très bon article sur twitterfeed je vais mettre en œuvre dans mon blog
+|Napaboy: RT @cnnexpansion: ¿Quieres un yate de lujo? Funda una firma como #Google y escoge tu favorito http://exp.mx/n002RX9
+|Napaboy: RT @google: Hey, Google URL Shortener just added API access to goo.gl. More info: http://goo.gl/Lv6ph @googlecode @mattcutts
+|Napaboy: @moruso_ si pero si algo me molesta de las empresas es que te activen funciones aunquelo pidas o quieras igual que Google o Facebook
+|Napaboy: RT @Teknologeek: Post: El Google Health Mexicano: Mexico contará con expedientes electronicos http://is.gd/k466y #teknologeek
+|Napaboy: Google lanza otro producto de hardware que se suma a su yelegono y laptop: lanzara una cámara de 360 grados de bolsillo estilo streetview
+|Napaboy: @xfigue claro que si adoptaran ipv6 de hecho google acaba de anunciar que podemos usar sus servicios con ipv6 checa mi ultimo tweet
+|Napaboy: Google comienza a usar Ipv6 para sus servicios y como usarlos: http://bit.ly/8ZgFx
+|Napaboy: Google Body: El Nuevo Google Earth del Cuerpo Humano que acaba de lanzar Google. I.P.R.E.S.I.O.N.A.N.T.E!!! http://bit.ly/gL9q2e
+|Napaboy: hace unos minutos estaba usando Street View en el Google Maps de mi iPhone pero ya no me sale ¿como le hice???!!
+|Napaboy: Imaginen que también le ordenen a google bloquear (censurar) todo lo ke contenga wikileaks! estaríamos ante el mayor caso de censura mundial
+|Napaboy: Se dan cuenta que Ya tiene Años literalmente que no se menciona la famosa frase de google &quot;don't be evil&quot;? porqué sera? ya lo la aplicarán?
+|Napaboy: RT @nit2am: The stocks were a result of Google’s acquisition of Keyhole, the CIA funded satellite mapping software now known as Google E ...
+|Napaboy: RT @xfigue: Es incomodo las imágenes preview en los resultados de búsquedas de google donde quedo la imagen limpia y minimalista que tenian?
+|Napaboy: RT @alanlzd: Cómo eliminar información personal de Google (sí, al parecer es posible) http://goo.gl/ADsmO
+|Napaboy: RT @alanlzd: Cómo eliminar información personal de Google (sí, al parecer es posible) http://goo.gl/ADsmO
+|Napaboy: RT @google: Introducing Boutiques.com: a new way to shop for fashion online http://goo.gl/5WtyY
+|Napaboy: Si crees que google sabe todo de ti estas en lo cierto pero tras bambalinas esta yodle que cononce toda la info financiera http://ito.mx/-YP
+|Napaboy: RT @4573r10n: RT @beatgeekblog Las 10 imágenes más raras captadas por Google Earth http://bit.ly/drYLPD
+|Napaboy: RT @daz_angie:Google crea conflictos internacionales http://bit.ly/c2EQwA pregunto: es trama de la CIA para poner en guerra dichos países?
+|andrew_sf: &quot;We went through rigorous testing and evaluation and we found out that Google was actually more secure than we were&quot; http://t.co/sXvONKd
+|andrew_sf: Groupon Wants A $25 Billion IPO Valuation - Bigger Than #Google http://pulsene.ws/15yp0
+|andrew_sf: Google aids Japan quake victims with Person Finder - http://www.bbc.co.uk/news/technology-12711244 #in
+|andrew_sf: Looking for cycle paths in Sydney to ride from Pyrmont to Rushcutters Bay. Any suggestions? No luck with #GoogleMaps
+|andrew_sf: Optus brings #Google Apps into SaaS suite http://t.co/LURBBy8 via @itnews_au #in #cloud
+|andrew_sf: Google vs Microsoft: Lessons on handling a #cloud http://t.co/lezxDtp #in via @ben_r
+|andrew_sf: RT @mashable Now Anyone Can Sync Google Docs &amp; Microsoft Office http://on.mash.to/gV521p
+|andrew_sf: #Salesforce.com isn't sole reason #Google won't enter CRM market - http://bit.ly/ethJun #cloud #in #chatter #manymoon
+|andrew_sf: PRM hires ex-Googler @troywestley - http://www.itwire.com/it-people-news/people/45102-prm-hires-ex-googler-troy-westley
+|andrew_sf: #Apple to release smaller #iPhone to stem #Google's 33% &amp; growing smartphone market share http://t.co/CX1FVDM #android
+|andrew_sf: Interesting... @jessnichols: Twitter is also in &quot;low-level&quot; acquisition talks with #Facebook and #Google http://read.bi/gPDLnX  #in
+|andrew_sf: #Google Docs Gets “Gmail-ified” http://pulsene.ws/W2ti #in #cloud
+|andrew_sf: Nearly 1 billion #Microsoft Internet Explorer users vulnerable to data-stealing hack - http://j.mp/i6AHxm #in - I prefer #GoogleChrome
+|andrew_sf: RT @AllThingsM: Australia Day Google Logo http://bit.ly/dPBHpD
+|andrew_sf: RT @alleyinsider: Google Is About To Go On A Major Hiring Spree: Plans To Add 6,000 New Employees $GOOG by @jyarow http://read.bi/gwSpZ0
+|andrew_sf: Google buying Twitter-based movie recommendation service fflick, and it's 10m subscribers, for $10m - 
+http://j.mp/igZFrc
+|andrew_sf: Google Eyes Mobile as the Key to 2011 http://pulsene.ws/Nnnq
+|andrew_sf: Who Will Create iTunes for the Cloud? http://pulsene.ws/Qfek #apple #amazon #google #facebook
+|andrew_sf: Thought Leaders In Cloud Computing: Doug Menefee, CIO of Schumacher Group http://bit.ly/h16hHv #salesforce #in #forcedotcom #google #amazon
+|andrew_sf: After failing to acquire #Groupon, #Google Offers launches as a competitor http://t.co/fdz3FTS
+|andrew_sf: Google revenue climbs 26 percent http://pulsene.ws/NO9y
+|andrew_sf: Schmidt to step aside as Google CEO, replaced by Larry Page  http://t.co/tKlBDtS via @itnews_au
+|andrew_sf: Yahoo!7 just announced they're buying Spreets for $40M... a small percentage of the $6B #Google offered for #Groupon - http://bit.ly/fysNbN
+|andrew_sf: Google Apps aiming for 99.99% uptime http://t.co/lDOSL6l via @itnews_au #cloud #google
+|andrew_sf: Android use Australia to triple in 2011 says Telsyte http://zdnet.com.au/339308630/ #google #mobile #in
+|andrew_sf: 4 Companies Getting Real Results From #Cloud Computing http://t.co/zINSObx #salesforce #servicemax #google #forcedotcom
+|andrew_sf: Gartner - Google vs Microsoft vs Apple - the battle for future dominance - http://j.mp/dZU8bV #mobile #saas #tv #in
+|andrew_sf: Ater turning down $6B from Google, Groupon prepares for IPO at a $15B Valuation http://pulsene.ws/JNxZ
+|andrew_sf: 10 Cloud-Based Services You Can't Live Without http://bit.ly/hnzdXd #salesforce #google #dropbox  #skype
+|andrew_sf: How to Use Online Video for B2B Marketing http://youtu.be/ybVQ2bvxVac #salesforce #youtube #google
+|andrew_sf: 15 Tech Trends to Emerge by 2014 - http://bit.ly/fzCbr8 #salesforce #google #
+|andrew_sf: RT @petercoffee: Your best team should be building mobile apps that enable key business processes (E.Schmidt @ Google) - http://tinyurl. ...
+|andrew_sf: Is Google on the decline? http://pulsene.ws/GrZK #in
+|andrew_sf: Firefox Dethrones Microsoft Internet Explorer in Europe, But Its Real Battle is With Google Chrome http://pulsene.ws/Et7a
+|andrew_sf: RT @appirio_ryan: Computerworld on #Microsoft vs. #Google: The Truth from the Cutting Room Floor #parody #cloud  http://goo.gl/7Y21J
+|andrew_sf: Google Chrome nears 10% browser marketshare http://t.co/RmF5Js2
+|andrew_sf: Ray White &amp; Flight Centre the latest companies to defect from Microsoft to Google - http://j.mp/bBeLaP
+|andrew_sf: http://mashable.com/2010/11/04/google-chrome-pdf/
+|andrew_sf: Google Chrome Only Browser to Show Measurable Growth This Year http://bit.ly/9ygnq9
+|andrew_sf: Google Chrome v6 releasing just 2 years after first release  http://bit.ly/cRK31p
+|andrew_sf: Google to release new version of Chrome every 6 weeks - http://bit.ly/d8Srtg
+|andrew_sf: Google discontinues the Nexus One Android phone http://bit.ly/bfbQ4O
+|andrew_sf: I'm liking the look of Google TV - http://bit.ly/c4QrBz
+|andrew_sf: Google releases Chrome for Mac - http://bit.ly/96o0XP
+|andrew_sf: Google Chrome Increases Browser Market Share While IE Falls Again [STATS] http://bit.ly/9orbCv
+|andrew_sf: VOTE: Salesforce Mobile support for Google Android - http://bit.ly/cn3mTB
+|GrumpyOracleDBA: RT @sagunbaijal: #Oracle takes on #Microsoft, #Google with Cloud Office http://t.co/xiMQ6qF Saw demo - liking MS Office better
+|WisdomWizard: RT @makeuseof 10+ Google Chrome Extensions For The Newly Converted http://bit.ly/dEG4mF
+|WisdomWizard: Gaining Altitude: A New Way to Think about Your Inbox - Google Enterprise Blog http://bit.ly/ikt3hs
+|WisdomWizard: Google's I/O page is is really cool. http://www.google.com/events/io/2011/
+|WisdomWizard: 20 Things I Learned a Newbie's Guide to the Internet. created by Google Chrome team explains for non-techies
+http://www.20thingsilearned.com
+|WisdomWizard: PhoneMarks is an application that allows synchronization of bookmarks between Google Chrome and Android phones. http://tinyurl.com/2533zvv
+|WisdomWizard: CHECK IT! Google Chrome Extension Quick Scroll lets you jump directly to relevant bits of a Google search result.http://tinyurl.com/yc25pky
+|WisdomWizard: FYI: Google engineers have finally taken the wraps off Lively, the company's 3D social network. Think: Second Life in a browser.
+|WisdomWizard: Google is advocating the use of rel=&quot;nofollow&quot; in order to reduce the effect of heavy inter-blog linking on page ranking.
+|saas_business: Global CIO: Even For Google, No Free Pass For #SaaS http://ht.ly/4jzzl
+|saas_business: Optus brings Google Apps into #SaaS suite http://ht.ly/4dxsx
+|saas_business: Optus brings Google Apps into #SaaS suite http://ht.ly/4bLAt
+|saas_business: #Cloud Computing: #Microsoft vs. #Google http://ht.ly/45UR6
+|saas_business: #Microsoft versus #Salesforce versus….#Google #CRM?
+#SaaS http://ht.ly/3YPeQ
+|saas_business: Google Apps boss says cloud computing is your destiny
+ http://ht.ly/3Yz0I
+|saas_business: #Google Docs Refines File Search in the #Cloud?
+ http://ht.ly/3NUgf
+|saas_business: #Infrastructure Giant #Amazon Drops 'Beanstalk' On #Google And #Salesforce
+#Cloud #SaaS
+|saas_business: SMB Tech Roll-up: SharePoint Gets #SaaS CRM, Google Offers Places ...?
+ http://ht.ly/3DlTg
+|saas_business: Google wins stay of Interior award to Microsoft for #cloud 
+ http://ht.ly/3zfnK
+|saas_business: #Cloud Computing: #Microsoft, #Google Fight for Government Pie 
+ http://ht.ly/3oO5S
+|saas_business: #Salesforce Makes Its Platform Play; Faces Off Vs. Amazon, Google, and Microsoft
+#SaaS
+ http://ht.ly/3nr7k
+|saas_business: USDA Cites Microsoft Leverage in Rejecting Google for E-Mail Bid
+#Cloud
+ http://ht.ly/3nqXF
+|saas_business: #Google nips #Microsoft as government agencies move to the #cloud
+ http://ow.ly/3lKjw
+|saas_business: SAP's #SaaS product StreamWork app now on Google Apps Marketplace http://ow.ly/3l4kK
+|saas_business: GSA to use Google #cloud-based system for e-mail
+ http://ow.ly/3j7km
+|saas_business: Microsoft exec says Google is 'failing' in the enterprise
+#Cloud
+ http://ow.ly/3hHTG
+|saas_business: Rumors galore about Google’s acquisition of Groupon 
+ http://ow.ly/3hlrp
+|saas_business: Google #Cloud Connect for #Microsoft Office: Hands On 
+
+ http://ow.ly/3fs0B
+|saas_business: Improving #SAP usability: Perspectives from the ‘#Google generation’
+#ERP #SaaS
+ http://ow.ly/3aUXl
+|saas_business: Search giant Google to double India engenieering staff?
+#cloud
+ http://ow.ly/38DzP
+|saas_business: RT @lawclouduk: RT @scottabel: Google sues the United States for pro-Microsoft bias and the future of cloud computing http://dlvr.it/7wGth
+|saas_business: #Google Sues US Government Agency over #SaaS &amp; #Cloud Contract?
+ http://ow.ly/33eh7
+|saas_business: RT @asksridhar: Google sues the United States for pro-Microsoft bias and the future of cloud computing http://bit.ly/bZTnYq #Tech
+|saas_business: #Google Spent $1.6B on 40 Companies Through 3 Quarters, #M&amp;A
+ http://ow.ly/333NJ
+|saas_business: #Netsuite Celigo Unveils Google Gmail Integration for NetSuite Cloud?
+ http://ow.ly/2Uh6X
+|saas_business: #SaaS: Google Celebrates 10 Millionth Education User
+ http://ow.ly/2Uh0c
+|saas_business: Aprigo looks to channel to drive Google Apps version of SaaS data governance solution
+ http://ow.ly/2Sey8
+|saas_business: #Netsuite  NetSuite OneWorld update integrates Google Apps
+http://bit.ly/9Cbjn4
+|saas_business: SaaS: Google Apps Enrolls In Maryland Schools
+http://bit.ly/c0goPC
+|saas_business: SaaS: Roberto Cavalli Makes Google Apps Fashionable
+http://bit.ly/9lYOz3
+|saas_business: Microsoft vs. Google: Battle for Government SaaS Supremacy
+http://bit.ly/bsL4Vx
+|saas_business: SaaS: Google Apps For Government Launches
+http://bit.ly/903FJ9
+|saas_business: SaaS: Brown University Goes to Google Apps
+http://bit.ly/bVZksG
+|saas_business: New Microsoft SaaS Campaign Attacks Google Apps
+http://tinyurl.com/344jtz7
+|saas_business: Is Google buying Salesforce.com?
+|saas_business: Big Bad News For Google: Search Share Gains Have Flatlined
+http://tinyurl.com/2wmnhuz
+|saas_business: Guess What? Google Doesn't Get The Most Revenue Per Employee In Tech Land
+http://tinyurl.com/368esne
+|saas_business: Tech Companies (But Not Google Or Apple) Take On More Debt
+http://tinyurl.com/y5z6ekv
+|saas_business: How Google Is Going To Put The Squeeze On Salesforce.com
+http://tinyurl.com/y4sjzcd
+|NeptuneCS: Larry Page to be Google CEO in big management shakeup http://ow.ly/3HJ3e
+|erpcloudnews: RT @TheCloudNetwork: #Cloud #Services New Google Cloud Storage Service Points To Vendor Lock-In Problems ...: But the ability to tr... h ...
+|bblfish: Google gets patent for mode of presenting translations  http://is.gd/88EULy - silly, all patents should be given to @timbl for inventing web
+|bblfish: RT @liotier: Guess who is looking at #Wikileaks the most ? http://j.mp/eh02nb - And they are doing it using Google... #Cablegate
+|bblfish: Google does not index  &quot;CableGate, Release Acts and the Pharmakon&quot; http://bblfish.net/blog/2010/12/10/ only pointers to it. Odd.
+|bblfish: great inforgraphic: Odds of being a terrorism victim on a flight http://t.co/hBme8tx - all news stories should come with such stats @google
+|bblfish: The Facebook-Google spat over who controls your data http://r2.ly/5sjq - We should with http://esw.w3.org/foaf+ssl @davewiner
+|bblfish: RT @mfhepp: RT @ericaxel: Webcast: Maximing Google SEO Effect with Semantic Web Technology by @mfhepp &amp; me now online http://bit.ly/cAvh ...
+|bblfish: More of Firesheep  http://bit.ly/ceSvOw  - Google on https scaling http://bit.ly/d9ziVY #tpac
+|bblfish: @richtibbett Firesheep is solved by #foaf+ssl / #WebID - because it is just SSL! Note Google has gone https: http://bit.ly/cn9zzm #w3c #tpac
+|bblfish: @richtibbett  Firesheep is solved by #foaf+ssl / #WebID - because it's using SSL! Note Google has gone SSL: http://bit.ly/cn9zzm #w3c
+|bblfish: GoodRelations RDF vocabulary supported by Google. http://bit.ly/axkbUy also http://bit.ly/aVsAwa
+|bblfish: RT @kidehen: Interesting #foaf_ssl based #mobile #semweb project aimed at #android :-) See: http://code.google.com/p/mssw/ #linkeddata # ...
+|bblfish: ? Google Chrome  &quot;simplify&quot; URLs by removing the protocol part in the browser! This can only lead to confusions http://bit.ly/auUoA6 ?
+|bblfish: great proposal by @snej on improving google #chrome security  http://bit.ly/azCXTU - shows an http://tr.im/SGLq X.509 cert
+|bblfish: http://esw.w3.org/Foaf+ssl now works with Google Chrome nightly build on OSX after fixing issue http://bit.ly/9X0s6t . Major improvement!
+|bblfish: An overview of issues with Google Chrome's client certificate support for OSX http://foaf.markmail.org/thread/lldvgsaskjsdf5le
+|bblfish: Internet Providers &amp; Google shoot down  #bigbrother #1984 French #Loppsi law http://tr.im/QzXu that empowers police to spy on citizens
+|bblfish: nice article &quot;A snippet view of cultural diversity: what the #Google Books Settlement means for Europe&quot; http://tr.im/Qiik
+|creationagency: One epic demo of Google Docs in action.  http://bit.ly/huRTsO
+|creationagency: Google or Bing? http://bit.ly/1QoAEp
+|Yuback: Bienvenue à nos nouveaux abonnés @lacuillere @IPHONE_INFOS @DestockAll @Tweeteux @GOOGLE_INFOS @PERSIA_NEWS @ericosx @Hg2Q
+|didogeneve: RT @pierreyvesrevaz: Google Music : le service testé en interne http://ow.ly/4nvJq
+|didogeneve: If you need to create a sitemap from an existing website try Google sitemap creator   http://bit.ly/c085oG #sitemap #google
+|didogeneve: Someone has already installed Google checkout on a website? #google #googlecheckout
+|didogeneve: RT @smexaminer How to Add Google Analytics to Your Facebook Fan Page http://bit.ly/cp7vCQ
+|didogeneve: RT @google: Tungle.me scheduling app now in the Google Apps Marketplace http://bit.ly/d5hLOc (via @GoogleAtWork)

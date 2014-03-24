@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Tyche" Class="TycheDbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=10.24.145.93\SQL2008R2;Initial Catalog=Tyche;Persist Security Info=True;User ID=smpsadmin" SettingsObjectName="XemantiX.Persistence.Properties.Settings" SettingsPropertyName="TycheConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.user_relation" Member="user_relations">
+    <Type Name="user_relation">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="sns_uid_src" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sns_uid_dst" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sns_type_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="tag" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="sns_type_user_relation" Member="sns_type" ThisKey="sns_type_id" OtherKey="id" Type="sns_type" IsForeignKey="true" />
+      <Association Name="sns_user_user_relation" Member="sns_user" ThisKey="sns_uid_dst" OtherKey="sns_uid" Type="sns_user" IsForeignKey="true" />
+      <Association Name="sns_user_user_relation1" Member="sns_user1" ThisKey="sns_uid_src" OtherKey="sns_uid" Type="sns_user" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.interaction_type" Member="interaction_types">
+    <Type Name="interaction_type">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="type" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Association Name="interaction_type_interaction" Member="interactions" ThisKey="id" OtherKey="interaction_type" Type="interaction" />
+    </Type>
+  </Table>
+  <Table Name="dbo.interaction_urls" Member="interaction_urls">
+    <Type Name="interaction_url">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="interaction_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="url" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Association Name="interaction_url_interaction_url_entity" Member="interaction_url_entities" ThisKey="id" OtherKey="interaction_url_id" Type="interaction_url_entity" />
+      <Association Name="interaction_url_interaction_url_keyword" Member="interaction_url_keywords" ThisKey="id" OtherKey="interaction_url_id" Type="interaction_url_keyword" />
+      <Association Name="interaction_interaction_url" Member="interaction" ThisKey="interaction_id" OtherKey="id" Type="interaction" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.last_interaction_processed" Member="last_interaction_processeds">
+    <Type Name="last_interaction_processed">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="action" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="interaction_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="interaction_last_interaction_processed" Member="interaction" ThisKey="interaction_id" OtherKey="id" Type="interaction" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.participant" Member="participants">
+    <Type Name="participant">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="interaction_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sns_uid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="participant_type_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="participant_type_participant" Member="participant_type" ThisKey="participant_type_id" OtherKey="id" Type="participant_type" IsForeignKey="true" />
+      <Association Name="sns_user_participant" Member="sns_user" ThisKey="sns_uid" OtherKey="sns_uid" Type="sns_user" IsForeignKey="true" />
+      <Association Name="interaction_participant" Member="interaction" ThisKey="interaction_id" OtherKey="id" Type="interaction" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.participant_type" Member="participant_types">
+    <Type Name="participant_type">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="type" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Association Name="participant_type_participant" Member="participants" ThisKey="id" OtherKey="participant_type_id" Type="participant" />
+    </Type>
+  </Table>
+  <Table Name="dbo.sns_type" Member="sns_types">
+    <Type Name="sns_type">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="type" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Association Name="sns_type_user_relation" Member="user_relations" ThisKey="id" OtherKey="sns_type_id" Type="user_relation" />
+      <Association Name="sns_type_sns_user" Member="sns_users" ThisKey="id" OtherKey="sns_type_id" Type="sns_user" />
+    </Type>
+  </Table>
+  <Table Name="dbo.sns_user" Member="sns_users">
+    <Type Name="sns_user">
+      <Column Name="sns_uid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tyche_uid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="sns_type_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Association Name="sns_user_user_relation" Member="user_relations" ThisKey="sns_uid" OtherKey="sns_uid_dst" Type="user_relation" />
+      <Association Name="sns_user_user_relation1" Member="user_relations1" ThisKey="sns_uid" OtherKey="sns_uid_src" Type="user_relation" />
+      <Association Name="sns_user_participant" Member="participants" ThisKey="sns_uid" OtherKey="sns_uid" Type="participant" />
+      <Association Name="sns_user_user_attribute" Member="user_attributes" ThisKey="sns_uid" OtherKey="sns_uid" Type="user_attribute" />
+      <Association Name="sns_user_user_email" Member="user_emails" ThisKey="sns_uid" OtherKey="sns_uid" Type="user_email" />
+      <Association Name="sns_type_sns_user" Member="sns_type" ThisKey="sns_type_id" OtherKey="id" Type="sns_type" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.system_attribute" Member="system_attributes">
+    <Type Name="system_attribute">
+      <Column Name="name" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="value" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="updated" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.user_attribute" Member="user_attributes">
+    <Type Name="user_attribute">
+      <Column Name="sns_uid" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="value" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="updated" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+      <Association Name="sns_user_user_attribute" Member="sns_user" ThisKey="sns_uid" OtherKey="sns_uid" Type="sns_user" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.user_email" Member="user_emails">
+    <Type Name="user_email">
+      <Column Name="sns_uid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="email" Type="System.String" DbType="NVarChar(255) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="sns_user_user_email" Member="sns_user" ThisKey="sns_uid" OtherKey="sns_uid" Type="sns_user" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.interaction_url_entities" Member="interaction_url_entities">
+    <Type Name="interaction_url_entity">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="interaction_url_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="entity" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="entity_count" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="entity_relevance" Type="System.Decimal" DbType="Decimal(10,6)" CanBeNull="true" />
+      <Column Name="entity_sentiment" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="entity_sentiment_score" Type="System.Decimal" DbType="Decimal(10,6)" CanBeNull="true" />
+      <Association Name="interaction_url_interaction_url_entity" Member="interaction_url" ThisKey="interaction_url_id" OtherKey="id" Type="interaction_url" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.interaction_url_keywords" Member="interaction_url_keywords">
+    <Type Name="interaction_url_keyword">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="interaction_url_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="keyword" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="keyword_count" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="keyword_relevance" Type="System.Decimal" DbType="Decimal(10,6)" CanBeNull="true" />
+      <Column Name="keyword_sentiment" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="keyword_sentiment_score" Type="System.Decimal" DbType="Decimal(10,6)" CanBeNull="true" />
+      <Association Name="interaction_url_interaction_url_keyword" Member="interaction_url" ThisKey="interaction_url_id" OtherKey="id" Type="interaction_url" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.interaction_keywords" Member="interaction_keywords">
+    <Type Name="interaction_keyword">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="interaction_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="keyword" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="keyword_count" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="keyword_relevance" Type="System.Decimal" DbType="Decimal(10,6)" CanBeNull="true" />
+      <Column Name="keyword_sentiment" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="keyword_sentiment_score" Type="System.Decimal" DbType="Decimal(10,6)" CanBeNull="true" />
+      <Association Name="interaction_interaction_keyword" Member="interaction" ThisKey="interaction_id" OtherKey="id" Type="interaction" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.interaction_entities" Member="interaction_entities">
+    <Type Name="interaction_entity">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="interaction_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="entity" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="entity_count" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="entity_relevance" Type="System.Decimal" DbType="Decimal(10,6)" CanBeNull="true" />
+      <Column Name="entity_sentiment" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="entity_sentiment_score" Type="System.Decimal" DbType="Decimal(10,6)" CanBeNull="true" />
+      <Association Name="interaction_interaction_entity" Member="interaction" ThisKey="interaction_id" OtherKey="id" Type="interaction" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.interaction" Member="interactions">
+    <Type Name="interaction">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="interaction_type" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="time" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="duration" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="message_id" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="reply_to_id" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="content_id" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="interaction_interaction_url" Member="interaction_urls" ThisKey="id" OtherKey="interaction_id" Type="interaction_url" />
+      <Association Name="interaction_last_interaction_processed" Member="last_interaction_processeds" ThisKey="id" OtherKey="interaction_id" Type="last_interaction_processed" />
+      <Association Name="interaction_participant" Member="participants" ThisKey="id" OtherKey="interaction_id" Type="participant" />
+      <Association Name="interaction_interaction_keyword" Member="interaction_keywords" ThisKey="id" OtherKey="interaction_id" Type="interaction_keyword" />
+      <Association Name="interaction_interaction_entity" Member="interaction_entities" ThisKey="id" OtherKey="interaction_id" Type="interaction_entity" />
+      <Association Name="interaction_type_interaction" Member="interaction_type1" ThisKey="interaction_type" OtherKey="id" Type="interaction_type" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,100 @@
+﻿
+.identificationDialog
+{
+    padding: 10px;    
+    border: solid 1px silver;
+    border-color:Black;
+    margin: 5px;
+
+	background-image: url(../ImgKit/dialog-background.gif);
+	background-repeat: repeat-x;
+}
+
+.loadingDialog
+{
+    padding: 10px;    
+    border: solid 1px silver;
+    border-color:Black;
+    margin: 5px;
+
+	background-image: url(../ImgKit/dialog-background.gif);
+	background-repeat: repeat-x;
+}
+
+.quitDialog
+{
+    padding: 10px;    
+    border: solid 1px silver;
+    border-color:Black;
+    margin: 5px;
+
+	background-image: url(../ImgKit/dialog-background.gif);
+	background-repeat: repeat-x;
+}
+
+.addObservationsDialog
+{
+    padding: 10px;    
+    border: solid 1px silver;
+    border-color:Black;
+    margin: 5px;
+
+	background-image: url(../ImgKit/dialog-background.gif);
+	background-repeat: repeat-x;
+}
+
+.rendezVousDialog
+{
+    padding: 10px;    
+    border: solid 1px silver;
+    border-color:Black;
+    margin: 5px;
+
+	background-image: url(../ImgKit/dialog-background.gif);
+	background-repeat: repeat-x;
+	width: 700px;
+}
+
+.nrTelephoneErroneDialog
+{
+    padding: 10px;    
+    border: solid 1px silver;
+    border-color:Black;
+    margin: 5px;
+
+	background-image: url(../ImgKit/dialog-background.gif);
+	background-repeat: repeat-x;
+}
+
+.finTraitementDialog
+{
+    padding: 10px;    
+    border: solid 1px silver;
+    border-color:Black;
+    margin: 5px;
+
+	background-image: url(../ImgKit/dialog-background.gif);
+	background-repeat: repeat-x;
+}
+
+.bilanDeLaCampagneDialog
+{
+    padding: 10px;    
+    border: solid 1px silver;
+    border-color:Black;
+    margin: 5px;
+
+	background-image: url(../ImgKit/dialog-background.gif);
+	background-repeat: repeat-x;
+}
+
+.errorDialog
+{
+    padding: 10px;    
+    border: solid 1px silver;
+    border-color:Black;
+    margin: 5px;
+
+	background-image: url(../ImgKit/dialog-background.gif);
+	background-repeat: repeat-x;
+}

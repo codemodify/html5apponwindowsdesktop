@@ -1,0 +1,4 @@
+
+defineNamespace( "JsKit.Settings" );
+
+

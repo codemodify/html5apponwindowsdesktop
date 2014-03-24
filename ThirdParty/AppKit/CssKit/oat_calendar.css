@@ -1,0 +1,55 @@
+﻿.calendar
+{
+	background-color: #fff;
+	border: 1px solid #000;
+}
+
+.calendar_year, .calendar_month
+{
+	text-align: center;
+	border-bottom: 1px solid #aaa;
+	padding: 2px 0px;
+}
+
+.calendar table
+{
+	border-collapse: collapse;
+	margin-top: 2px;
+}
+
+.calendar thead
+{
+	font-weight: bold;
+}
+
+.calendar thead td
+{
+    padding: 1px 1px 1px 1px;
+	padding: 0px 2px;
+}
+
+.calendar td
+{
+    padding: 1px 1px 1px 1px;
+	text-align: center;
+}
+
+.calendar td:hover
+{
+	background-color: #ccc;
+}
+
+td.calendar_selected
+{
+	background-color: #faa;
+}
+
+.calendar_special
+{
+	color: #c55;
+}
+
+
+/*
+.calendar, .calendar_selected, .calendar_special, .calendar_year, .calendar_month
+*/

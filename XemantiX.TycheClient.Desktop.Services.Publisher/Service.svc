@@ -1,0 +1,5 @@
+﻿<%@ ServiceHost 
+    Language="C#" 
+    Debug="true" 
+    Service="XemantiX.TycheClient.Desktop.Services.Service" 
+    Factory="System.ServiceModel.Activation.WebScriptServiceHostFactory"%>

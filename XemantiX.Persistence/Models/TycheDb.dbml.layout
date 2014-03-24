@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.25, 18.875" name="TycheDb">
+  <DataContextMoniker Name="/TycheDbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5e598e48-cd0a-4596-9d5b-1463b47e54ab" absoluteBounds="9.25, 1.25, 2, 1.5891951497395829">
+      <DataClassMoniker Name="/TycheDbDataContext/user_relation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="af9769ea-ded2-4499-be72-e7464522bd89" absoluteBounds="9.265, 1.71, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="92721a8a-70e2-4f93-bbfd-a5f3e674e070" absoluteBounds="3.75, 10.5, 2, 1.0961531575520844">
+      <DataClassMoniker Name="/TycheDbDataContext/interaction_type" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2604f75a-d209-424a-b444-fc53fb2b5261" absoluteBounds="3.765, 10.96, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6a29bcb4-1800-4631-8e20-1face5594de2" absoluteBounds="9.25, 8.875, 2, 1.2605004882812487">
+      <DataClassMoniker Name="/TycheDbDataContext/interaction_url" />
+      <nestedChildShapes>
+        <elementListCompartment Id="94618a3b-1f54-472a-9158-e98abc19607a" absoluteBounds="9.265, 9.335, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a79bd582-d629-484a-95a4-2357e2f7c4f2" absoluteBounds="9.25, 11.375, 2, 1.2605004882812487">
+      <DataClassMoniker Name="/TycheDbDataContext/last_interaction_processed" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bba12cd6-046d-4368-9d33-d78dd2606742" absoluteBounds="9.265, 11.835, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8ae2d7c9-1051-43e9-b45b-cf263afd85b8" absoluteBounds="9.25, 4.375, 2, 1.4248478190104166">
+      <DataClassMoniker Name="/TycheDbDataContext/participant" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b8dd67d8-10f1-4899-af64-f53a1725e945" absoluteBounds="9.265, 4.835, 1.9700000000000002, 0.86484781901041674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="69f3858a-d226-4ae6-8501-e3c0819e8981" absoluteBounds="6.5, 1.25, 2, 1.0961531575520835">
+      <DataClassMoniker Name="/TycheDbDataContext/participant_type" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c2e33511-bc2a-49b1-b3de-182a1c1faf08" absoluteBounds="6.515, 1.71, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="88ad332b-9d76-4e60-814b-4db83ba85ac7" absoluteBounds="0.75, 4.5, 2, 1.0961531575520844">
+      <DataClassMoniker Name="/TycheDbDataContext/sns_type" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ed3f22dc-94ea-4b62-8186-bed5bcd62a83" absoluteBounds="0.765, 4.96, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7a725501-c3ff-47b7-9e9c-f66e6659d97f" absoluteBounds="3.5, 4.375, 2, 1.4248478190104166">
+      <DataClassMoniker Name="/TycheDbDataContext/sns_user" />
+      <nestedChildShapes>
+        <elementListCompartment Id="daa0c4a1-f00d-4fe0-a861-388ca10edc66" absoluteBounds="3.515, 4.835, 1.9700000000000002, 0.86484781901041674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="676ce6a4-2a47-4d86-b886-a4130849e4f9" absoluteBounds="0.75, 0.75, 2, 1.26050048828125">
+      <DataClassMoniker Name="/TycheDbDataContext/system_attribute" />
+      <nestedChildShapes>
+        <elementListCompartment Id="67e4a100-a3f8-4f02-b09c-c99b839fe23c" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="480573c3-2e43-4155-a0cd-34f7cabd092b" absoluteBounds="6.25, 7.5, 2, 1.4248478190104166">
+      <DataClassMoniker Name="/TycheDbDataContext/user_attribute" />
+      <nestedChildShapes>
+        <elementListCompartment Id="db748df5-91ad-4094-9984-97ea94e8d9cf" absoluteBounds="6.265, 7.96, 1.9700000000000002, 0.86484781901041674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="864e1acc-7a16-481a-8250-598e6cd15a51" absoluteBounds="6.25, 3.5, 2, 1.096153157552084">
+      <DataClassMoniker Name="/TycheDbDataContext/user_email" />
+      <nestedChildShapes>
+        <elementListCompartment Id="13840b52-f2d4-4eb5-89be-518f8960e015" absoluteBounds="6.265, 3.96, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.37500125 : 2.34615315755208); (8.37500125 : 4.91269932291667); (9.25 : 4.91269932291667)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TycheDbDataContext/participant_type/participant_type_participant" />
+      <nodes>
+        <classShapeMoniker Id="69f3858a-d226-4ae6-8501-e3c0819e8981" />
+        <classShapeMoniker Id="8ae2d7c9-1051-43e9-b45b-cf263afd85b8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.5); (3.125 : 4.125); (3.125 : 3.21419514973958); (8.87622145780749 : 3.21419514973958); (9.25122145780749 : 2.83919514973958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TycheDbDataContext/sns_type/sns_type_user_relation" />
+      <nodes>
+        <classShapeMoniker Id="88ad332b-9d76-4e60-814b-4db83ba85ac7" />
+        <classShapeMoniker Id="5e598e48-cd0a-4596-9d5b-1463b47e54ab" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 4.375); (4.5 : 2.62392415364583); (8.29166791666667 : 2.62392415364583 : JumpStart); (8.45833458333333 : 2.62392415364583 : JumpEnd); (9.25 : 2.62392415364583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TycheDbDataContext/sns_user/sns_user_user_relation" />
+      <nodes>
+        <classShapeMoniker Id="7a725501-c3ff-47b7-9e9c-f66e6659d97f" />
+        <classShapeMoniker Id="5e598e48-cd0a-4596-9d5b-1463b47e54ab" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.0312525 : 4.375); (5.0312525 : 2.76281215169271); (8.29166791666667 : 2.76281215169271 : JumpStart); (8.45833458333333 : 2.76281215169271 : JumpEnd); (9.25 : 2.76281215169271)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TycheDbDataContext/sns_user/sns_user_user_relation1" />
+      <nodes>
+        <classShapeMoniker Id="7a725501-c3ff-47b7-9e9c-f66e6659d97f" />
+        <classShapeMoniker Id="5e598e48-cd0a-4596-9d5b-1463b47e54ab" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.57704915364583); (8.69791479166667 : 5.57704915364583 : JumpStart); (8.86458145833334 : 5.57704915364583 : JumpEnd); (9.25 : 5.57704915364583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TycheDbDataContext/sns_user/sns_user_participant" />
+      <nodes>
+        <classShapeMoniker Id="7a725501-c3ff-47b7-9e9c-f66e6659d97f" />
+        <classShapeMoniker Id="8ae2d7c9-1051-43e9-b45b-cf263afd85b8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.07932907877604); (3.5 : 5.07932907877604)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TycheDbDataContext/sns_type/sns_type_sns_user" />
+      <nodes>
+        <classShapeMoniker Id="88ad332b-9d76-4e60-814b-4db83ba85ac7" />
+        <classShapeMoniker Id="7a725501-c3ff-47b7-9e9c-f66e6659d97f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 5.79984781901042); (4.5 : 8.21242390950521); (6.25 : 8.21242390950521)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TycheDbDataContext/sns_user/sns_user_user_attribute" />
+      <nodes>
+        <classShapeMoniker Id="7a725501-c3ff-47b7-9e9c-f66e6659d97f" />
+        <classShapeMoniker Id="480573c3-2e43-4155-a0cd-34f7cabd092b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.05534915559896); (7.25 : 5.05534915559896); (7.25 : 4.59615315755208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TycheDbDataContext/sns_user/sns_user_user_email" />
+      <nodes>
+        <classShapeMoniker Id="7a725501-c3ff-47b7-9e9c-f66e6659d97f" />
+        <classShapeMoniker Id="864e1acc-7a16-481a-8250-598e6cd15a51" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="13bdf609-1037-494f-ae2a-648f06a2a3e2" absoluteBounds="12, 7.25, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/TycheDbDataContext/interaction_url_entity" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dc7e1fc5-2ec8-4b3d-b630-03cfc0108ff0" absoluteBounds="12.015, 7.71, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="367c85e5-a769-427f-a792-014c3ec92a59" absoluteBounds="12, 9.875, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/TycheDbDataContext/interaction_url_keyword" />
+      <nestedChildShapes>
+        <elementListCompartment Id="49e74be5-7fbc-449c-8e47-37b859b0610b" absoluteBounds="12.015, 10.335, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f952694c-ed47-4855-a5e0-3765d67132a7" absoluteBounds="9.25, 14.125, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/TycheDbDataContext/interaction_keyword" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a6cd0cea-3aeb-4401-ad00-4f5fceeeaddb" absoluteBounds="9.265, 14.585, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="39aef1b8-0218-4373-ba89-256b0553c689" absoluteBounds="9.25, 16.75, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/TycheDbDataContext/interaction_entity" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4cdd00b1-60f5-4426-a02c-0f07c5b10b0e" absoluteBounds="9.265, 17.21, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(10.25 : 8.875); (10.25 : 8.0624995); (12 : 8.0624995)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TycheDbDataContext/interaction_url/interaction_url_interaction_url_entity" />
+      <nodes>
+        <classShapeMoniker Id="6a29bcb4-1800-4631-8e20-1face5594de2" />
+        <classShapeMoniker Id="13bdf609-1037-494f-ae2a-648f06a2a3e2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 10.1355004882812); (11.625 : 10.5105004882812); (11.625 : 9.5); (12 : 9.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TycheDbDataContext/interaction_url/interaction_url_interaction_url_keyword" />
+      <nodes>
+        <classShapeMoniker Id="6a29bcb4-1800-4631-8e20-1face5594de2" />
+        <classShapeMoniker Id="367c85e5-a769-427f-a792-014c3ec92a59" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="1b6cdcf4-a6c4-4ce4-9431-09ede8662049" absoluteBounds="8, 11.25, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/TycheDbDataContext/interaction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bef6df94-4440-4f05-a195-f41cff7d8543" absoluteBounds="8.015, 11.71, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(9.625 : 11.25); (9.625 : 10.1355004882812)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TycheDbDataContext/interaction/interaction_interaction_url" />
+      <nodes>
+        <classShapeMoniker Id="1b6cdcf4-a6c4-4ce4-9431-09ede8662049" />
+        <classShapeMoniker Id="6a29bcb4-1800-4631-8e20-1face5594de2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8 : 12.208944905599); (7.75 : 12.208944905599); (7.75 : 12.0052502441406); (9.25 : 12.0052502441406)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TycheDbDataContext/interaction/interaction_last_interaction_processed" />
+      <nodes>
+        <classShapeMoniker Id="1b6cdcf4-a6c4-4ce4-9431-09ede8662049" />
+        <classShapeMoniker Id="a79bd582-d629-484a-95a4-2357e2f7c4f2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.781248125 : 11.25); (8.781248125 : 5.24487423828125); (9.25 : 5.24487423828125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TycheDbDataContext/interaction/interaction_participant" />
+      <nodes>
+        <classShapeMoniker Id="1b6cdcf4-a6c4-4ce4-9431-09ede8662049" />
+        <classShapeMoniker Id="8ae2d7c9-1051-43e9-b45b-cf263afd85b8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.625 : 13.1678898111979); (9.625 : 14.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TycheDbDataContext/interaction/interaction_interaction_keyword" />
+      <nodes>
+        <classShapeMoniker Id="1b6cdcf4-a6c4-4ce4-9431-09ede8662049" />
+        <classShapeMoniker Id="f952694c-ed47-4855-a5e0-3765d67132a7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.6249995 : 13.1678898111979); (8.6249995 : 17.708944905599); (9.25 : 17.708944905599)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TycheDbDataContext/interaction/interaction_interaction_entity" />
+      <nodes>
+        <classShapeMoniker Id="1b6cdcf4-a6c4-4ce4-9431-09ede8662049" />
+        <classShapeMoniker Id="39aef1b8-0218-4373-ba89-256b0553c689" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 11.423076578776); (8 : 11.423076578776)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TycheDbDataContext/interaction_type/interaction_type_interaction" />
+      <nodes>
+        <classShapeMoniker Id="92721a8a-70e2-4f93-bbfd-a5f3e674e070" />
+        <classShapeMoniker Id="1b6cdcf4-a6c4-4ce4-9431-09ede8662049" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,506 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+
+body   
+{
+    background: #b6b7bc;
+    font-size: .80em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+
+a:link, a:visited
+{
+    color: #034af3;
+}
+
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #034af3;
+}
+
+p
+{
+    margin-bottom: 10px;
+    line-height: 1.6em;
+}
+
+
+/* HEADINGS   
+----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 1.5em;
+    color: #666666;
+    font-variant: small-caps;
+    text-transform: none;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+
+h1
+{
+    font-size: 1.6em;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h2
+{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+h3
+{
+    font-size: 1.2em;
+}
+
+h4
+{
+    font-size: 1.1em;
+}
+
+h5, h6
+{
+    font-size: 1em;
+}
+
+/* this rule styles <h1> and <h2> tags that are the 
+first child of the left and right table columns */
+.rightColumn > h1, .rightColumn > h2, .leftColumn > h1, .leftColumn > h2
+{
+    margin-top: 0px;
+}
+
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+.page
+{
+    width: 960px;
+    background-color: #fff;
+    margin: 20px auto 0px auto;
+    border: 1px solid #496077;
+}
+
+.header
+{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background: #4b6c9e;
+    width: 100%;
+}
+
+.header h1
+{
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px 0px 0px 20px;
+    color: #f9f9f9;
+    border: none;
+    line-height: 2em;
+    font-size: 2em;
+}
+
+.main
+{
+    padding: 0px 12px;
+    margin: 12px 8px 8px 8px;
+    min-height: 420px;
+}
+
+.leftCol
+{
+    padding: 6px 0px;
+    margin: 12px 8px 8px 8px;
+    width: 200px;
+    min-height: 200px;
+}
+
+.footer
+{
+    color: #4e5766;
+    padding: 8px 0px 0px 0px;
+    margin: 0px auto;
+    text-align: center;
+    line-height: normal;
+}
+
+
+/* TAB MENU   
+----------------------------------------------------------*/
+
+div.hideSkiplink
+{
+    background-color:#3a4f63;
+    width:100%;
+}
+
+div.menu
+{
+    padding: 4px 0px 4px 8px;
+}
+
+div.menu ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+}
+
+div.menu ul li a, div.menu ul li a:visited
+{
+    background-color: #465c71;
+    border: 1px #4e667d solid;
+    color: #dde4ec;
+    display: block;
+    line-height: 1.35em;
+    padding: 4px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+div.menu ul li a:hover
+{
+    background-color: #bfcbd6;
+    color: #465c71;
+    text-decoration: none;
+}
+
+div.menu ul li a:active
+{
+    background-color: #465c71;
+    color: #cfdbe6;
+    text-decoration: none;
+}
+
+/* FORM ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset
+{
+    margin: 1em 0px;
+    padding: 1em;
+    border: 1px solid #ccc;
+}
+
+fieldset p 
+{
+    margin: 2px 12px 10px 10px;
+}
+
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+    display: block;
+}
+
+fieldset label.inline 
+{
+    display: inline;
+}
+
+legend 
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+}
+
+input.textEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+input.passwordEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+div.accountInfo
+{
+    width: 42%;
+}
+
+/* MISC  
+----------------------------------------------------------*/
+
+.clear
+{
+    clear: both;
+}
+
+.title
+{
+    display: block;
+    float: left;
+    text-align: left;
+    width: auto;
+}
+
+.loginDisplay
+{
+    font-size: 1.1em;
+    display: block;
+    text-align: right;
+    padding: 10px;
+    color: White;
+}
+
+.loginDisplay a:link
+{
+    color: white;
+}
+
+.loginDisplay a:visited
+{
+    color: white;
+}
+
+.loginDisplay a:hover
+{
+    color: white;
+}
+
+.failureNotification
+{
+    font-size: 1.2em;
+    color: Red;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.submitButton
+{
+    text-align: right;
+    padding-right: 10px;
+}
+
+/*----------- cloud view -----------------------*/
+._jsPlumb_overlay 
+{ 
+	z-index:51; 
+}
+
+._jsPlumb_endpoint 
+{ 
+	z-index:50; 
+	cursor:move; 
+}
+
+._jsPlumb_connector 
+{ 
+	z-index:1; 
+}
+
+#cloud
+{
+	width:900px;
+	height:400px;
+}
+
+.bigdot 
+{ 
+	cursor:pointer;
+	z-index:5; 
+	position:absolute; 
+	border-radius:81px;
+	display:table;
+}
+
+.bigdot p
+{ 
+	color:Black;
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+	display: table-cell;
+	vertical-align: middle;
+
+}
+
+.bigdot-hover 
+{ 
+	border:2px solid orange; 
+}
+
+.dropHover 
+{ 
+	border:1px solid orange; 
+}
+
+#bd1 { top:10em;left:26em;}
+#bd2 { top:3em;left:3em;}
+#bd3 { top:19em;left:4.5em;}
+#bd4 { top:19em;left:46em;}
+/*----------- END cloud view -----------------------*/
+
+/*----------- list view -----------------------*/
+#form {
+    background-color: #F3F3F3;
+    background-position: 0.6em 0.3em;
+    background-repeat: no-repeat;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
+    box-shadow: 0 0 7px #00053C;
+    font-family: courier;
+    font-size: 1.2em;
+    height: 58px;
+    margin-bottom: 1em;
+    margin-left: 4em;
+    margin-right: auto;
+    opacity: 0.9;
+    padding-top: 20px;
+    text-align: center;
+    width:100%;
+}
+#formInner {
+    margin-left: 10%;
+    width: 85%;
+}
+#form span {
+    background-color: #F3F3F3;
+    border-radius: 0.6em 0.6em 0.6em 0.6em;
+    opacity: 0.7;
+    padding-left: 0.15em;
+}
+#form img {
+    float: left;
+    margin-top: -1em;
+}
+#googleAds {
+    margin-left: 0.9em;
+    margin-top: 3em;
+}
+#options {
+    font-size: 0.8em;
+    margin-bottom: 1em;
+}
+#options label {
+    cursor: pointer;
+}
+#outputWrapper {
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    text-align: center;
+    /*width: 50%;*/
+    z-index: 5;
+}
+#tagWrapper {
+    float: right;
+    margin-top: 3.5em;
+    width: 22%;
+    z-index: 5;
+}
+#tagWrapper .odd, #users .odd {
+    background-color: #F3F3F3;
+}
+#tagWrapper .hl, #users .hl, .hl {
+    background-color: #FFC171;
+}
+#txtInput {
+    margin-bottom: 0.5em;
+    margin-right: 0.5em;
+}
+#userWrapper {
+    float: left;
+    margin-top: 3.5em;
+    padding-right: 1em;
+    text-align: left;
+    width: 22%;
+    z-index: 5;
+}
+.aTweet {
+    border: 1px solid #CCCCCC;
+    border-radius: 1em 1em 1em 1em;
+    font-size: 0.9em;
+    margin-bottom: 0.3em;
+    margin-left: 5em;
+    margin-right: 5em;
+    padding: 0.2em 0.4em;
+    text-align: left;
+    z-index: 2;
+    width:100%;
+}
+.aTweet, #users .taggedUser, #tags .tag {
+    box-shadow: 0 0 7px #FFC171;
+}
+.from {
+    cursor: pointer;
+    font-weight: bold;
+}
+.langButtons {
+    float: right;
+}
+.langButtons span {
+    cursor: pointer;
+    margin-left: 0.2em;
+    margin-right: 0.1em;
+}
+.main {
+    margin-bottom: 0.2em;
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+    width: 85%;
+}
+.ot {
+    display: none;
+}
+.tag {
+    border-radius: 0.3em 0.3em 0.3em 0.3em;
+    color: #00656C;
+    cursor: pointer;
+    padding: 0.2em;
+    text-align: right;
+    z-index: 2;
+}
+.tag:hover, .taggedUser:hover {
+    text-decoration: underline;
+}
+.taggedUser {
+    border-radius: 0.3em 0.3em 0.3em 0.3em;
+    color: #00656C;
+    cursor: pointer;
+    padding: 0.2em;
+    z-index: 2;
+}
+._jsPlumb_connector, ._jsPlumb_endpoint {
+    z-index: 1;
+}
+._jsPlumb_endpoint {
+    opacity: 0.6;
+}
+.handle {
+    background-color: #F3F3F3;
+    border-radius: 0.2em 0.2em 0.2em 0.2em;
+    box-shadow: 0 0 7px #BBBBBB;
+    cursor: move;
+    height: 0.7em;
+    margin: 0.8em;
+    width: 75%;
+}
+.handlehover {
+    box-shadow: 0 0 7px #FFC171;
+}
+#sc {
+    display: none;
+}
+/*----------- END list view -----------------------*/

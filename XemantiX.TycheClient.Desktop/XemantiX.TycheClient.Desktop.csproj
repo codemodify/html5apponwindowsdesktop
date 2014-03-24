@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{594A538D-FF82-4E05-B459-75522D26E9C7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>XemantiX.TycheClient.Desktop</RootNamespace>
+    <AssemblyName>XemantiX.TycheClient.Desktop</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>$(SolutionDir)\Output\$(Configuration)</OutputPath>
+    <IntermediateOutputPath>$(SolutionDir)\Output\$(Configuration)\IntermediaryFiles\$(AssemblyName)</IntermediateOutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>C:\Users\nicu\Projects\XemantiX\trunk\Source\Tyche\\Output\Debug\XemantiX.TycheClient.Desktop.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>$(SolutionDir)\Output\$(Configuration)</OutputPath>
+    <IntermediateOutputPath>$(SolutionDir)\Output\$(Configuration)\IntermediaryFiles\$(AssemblyName)</IntermediateOutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>C:\Users\nicu\Projects\XemantiX\trunk\Source\Tyche\\Output\Release\XemantiX.TycheClient.Desktop.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Logging">
+      <HintPath>..\ThirdParty\TranceLayer\Output\Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\AspNetServer.cs" />
+    <Compile Include="View\Ui.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Ui.Designer.cs">
+      <DependentUpon>Ui.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="View\Ui.resx">
+      <DependentUpon>Ui.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Controller\WorkspaceScreen.js" />
+    <Content Include="Controller\easing.js" />
+    <Content Include="Controller\LoginScreen.js" />
+    <Content Include="Controller\Main.js" />
+    <Content Include="Controller\Init.js" />
+    <Content Include="Controller\SplashScreen.js" />
+    <Content Include="View\WorkspaceScreen.html" />
+    <Content Include="View\Images\LoginScreen.Texture1.jpg" />
+    <Content Include="View\Images\LoginScreen.Texture2.jpg" />
+    <Content Include="View\Images\LoginScreen.Texture3.jpg" />
+    <Content Include="View\Images\LoginScreen.Texture3.png" />
+    <Content Include="View\Images\LoginScreen.Texture4.jpg" />
+    <Content Include="View\LoginScreen.html" />
+    <Content Include="View\SplashScreen.html" />
+    <Content Include="Controller\fireworks.js" />
+    <Content Include="Controller\fireworks.svg.js" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <Target Name="AfterBuild">
+    <PropertyGroup>
+      <ThirdPartyFolder>$(SolutionDir)\ThirdParty</ThirdPartyFolder>
+      <AppKitFolderSource>$(ThirdPartyFolder)\AppKit</AppKitFolderSource>
+      <AppKitFolderDestination>$(OutputPath)\AppKit</AppKitFolderDestination>
+      <IISExpressFolderSource>$(ThirdPartyFolder)\IISExpress</IISExpressFolderSource>
+      <IISExpressDestination>$(OutputPath)\Publisher</IISExpressDestination>
+    </PropertyGroup>
+    <ItemGroup>
+      <AppKitFolderSourceContent Include="$(AppKitFolderSource)\**\*" />
+      <IISExpressFolderSourceContent Include="$(IISExpressFolderSource)\**\*" />
+      <JQueryFolderSourceContent Include="$(ThirdPartyFolder)\JQuery\**\*" />
+      <ThisContent01 Include=".\**\*.css" />
+      <ThisContent02 Include=".\**\*.html" />
+      <ThisContent03 Include=".\**\*.js" />
+      <ThisContent04 Include=".\**\*.png" />
+      <ThisContent05 Include=".\**\*.jpg" />
+    </ItemGroup>
+    <MakeDir Directories="$(AppKitFolderDestination)" />
+    <MakeDir Directories="$(IISExpressDestination)" />
+    <Copy SourceFiles="@(AppKitFolderSourceContent)" DestinationFolder="$(AppKitFolderDestination)\%(RecursiveDir)" />
+    <Copy SourceFiles="@(IISExpressFolderSourceContent)" DestinationFolder="$(IISExpressDestination)\%(RecursiveDir)" />
+    <Copy SourceFiles="@(JQueryFolderSourceContent)" DestinationFolder="$(OutputPath)\%(RecursiveDir)" />
+    <Copy SourceFiles="@(ThisContent01)" DestinationFolder="$(OutputPath)\%(RecursiveDir)" />
+    <Copy SourceFiles="@(ThisContent02)" DestinationFolder="$(OutputPath)\%(RecursiveDir)" />
+    <Copy SourceFiles="@(ThisContent03)" DestinationFolder="$(OutputPath)\%(RecursiveDir)" />
+    <Copy SourceFiles="@(ThisContent04)" DestinationFolder="$(OutputPath)\%(RecursiveDir)" />
+    <Copy SourceFiles="@(ThisContent05)" DestinationFolder="$(OutputPath)\%(RecursiveDir)" />
+    <Copy SourceFiles="$(ThirdPartyFolder)\TranceLayer\Output\Logging.Persisters.PlainFile.dll" DestinationFolder="$(OutputPath)\" />
+    <Copy SourceFiles="$(ThirdPartyFolder)\TranceLayer\Output\Logging.Modifiers.SimpleLogFormatter.dll" DestinationFolder="$(OutputPath)\" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

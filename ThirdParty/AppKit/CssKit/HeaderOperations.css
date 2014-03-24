@@ -1,0 +1,18 @@
+﻿
+.headerOperations
+{
+	width: 100%;
+	vertical-align: middle;
+	color: #dddddd;
+	font-weight: bold;
+}
+
+.headerOperationsLeftSide
+{
+	text-align: left;
+}
+
+.headerOperationsRightSide
+{
+	text-align: right;
+}

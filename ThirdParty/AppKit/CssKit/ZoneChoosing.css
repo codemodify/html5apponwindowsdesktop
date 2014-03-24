@@ -1,0 +1,18 @@
+﻿
+.firstScreen
+{
+	width: 100%;
+	vertical-align: middle;
+	text-align: left;
+	font-weight: bold;
+}
+
+.firstScreen_1stRow_1stTd
+{
+	text-align: right;
+}
+
+.firstScreen_2ndRow_1stTd
+{
+	text-align: left;
+}

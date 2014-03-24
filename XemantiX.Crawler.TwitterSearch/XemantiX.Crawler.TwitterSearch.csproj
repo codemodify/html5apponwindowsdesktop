@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2486D109-17C3-445E-A5A9-12D98FE02D3C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>XemantiX.Crawler.TwitterSearch</RootNamespace>
+    <AssemblyName>XemantiX.Crawler.TwitterSearch</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>$(SolutionDir)\Output\$(Configuration)</OutputPath>
+    <IntermediateOutputPath>$(SolutionDir)\Output\$(Configuration)\IntermediaryFiles\$(AssemblyName)</IntermediateOutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>$(SolutionDir)\Output\$(Configuration)</OutputPath>
+    <IntermediateOutputPath>$(SolutionDir)\Output\$(Configuration)\IntermediaryFiles\$(AssemblyName)</IntermediateOutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchTwitter.cs" />
+    <Compile Include="TwitterSearchCrawler.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\XemantiX.Crawler\XemantiX.Crawler.csproj">
+      <Project>{35BD2343-6258-4305-AE72-84AA5909B406}</Project>
+      <Name>XemantiX.Crawler</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XemantiX.Persistence\XemantiX.Persistence.csproj">
+      <Project>{83784172-CE1D-4638-A3F2-81B51FC0FAF2}</Project>
+      <Name>XemantiX.Persistence</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThirdParty\LinqToTwitter\LinqToTwitter\LinqToTwitter.csproj">
+      <Project>{A214B9F0-6B8C-4E91-BE99-27F55CC860C1}</Project>
+      <Name>LinqToTwitter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
