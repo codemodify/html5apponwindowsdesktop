@@ -16,3 +16,6 @@ The model and its data is exposed as DataContracts to the JS by passing through
 the Scripting Factories existing in .NET. All is possible in a desktop app because 
 in .NET exists the System.Web.Hosting namespace. The same namespace will eventually 
 allow to replace the current IIS Express based implementation to serve WCF services to the JS.
+
+### Demo
+https://www.youtube.com/watch?v=bo0YVLTj-TM
